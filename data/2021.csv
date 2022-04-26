@@ -1,0 +1,1098 @@
+,Game ID,Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+0,NYA202104010,t1,0-0,0,---,,O,TOR,Marcus Semien,Gerrit Cole,-2%,48%,Groundout: SS-1B (SS-3B Hole)
+1,NYA202104010,t1,0-0,1,---,,O,TOR,Cavan Biggio,Gerrit Cole,-2%,46%,Strikeout Swinging
+2,NYA202104010,t1,0-0,2,---,,O,TOR,Bo Bichette,Gerrit Cole,-1%,45%,Groundout: 2B-1B (Deep 2B)
+3,NYA202104010,b1,0-0,0,---,,O,NYY,DJ LeMahieu,Hyun Jin Ryu,2%,47%,Groundout: 1B unassisted (2B-1B)
+4,NYA202104010,b1,0-0,1,---,,O,NYY,Aaron Judge,Hyun Jin Ryu,2%,49%,Strikeout Swinging
+5,NYA202104010,b1,0-0,2,---,,O,NYY,Aaron Hicks,Hyun Jin Ryu,1%,50%,Strikeout Swinging
+6,NYA202104010,t2,0-0,0,---,,,TOR,Teoscar Hernandez,Gerrit Cole,4%,54%,Single to SS (Ground Ball to SS-3B Hole)
+7,NYA202104010,t2,0-0,0,1--,,,TOR,Vladimir Guerrero Jr.,Gerrit Cole,6%,59%,Single to CF (Line Drive); Hernandez to 2B
+8,NYA202104010,t2,0-0,0,12-,,R,TOR,Lourdes Gurriel Jr.,Gerrit Cole,9%,69%,Single to CF (Ground Ball thru SS-2B); Hernandez Scores; Guerrero to 2B
+9,NYA202104010,t2,1-0,0,12-,,O,TOR,Rowdy Tellez,Gerrit Cole,-5%,64%,Popfly: 1B (Short 1B Line)
+10,NYA202104010,t2,1-0,1,12-,,O,TOR,Randal Grichuk,Gerrit Cole,-4%,60%,Strikeout Swinging
+11,NYA202104010,t2,1-0,2,12-,,O,TOR,Danny Jansen,Gerrit Cole,-4%,56%,Strikeout Looking
+12,NYA202104010,b2,0-1,0,---,,O,NYY,Giancarlo Stanton,Hyun Jin Ryu,3%,58%,Popfly: 2B (Deep SS-2B)
+13,NYA202104010,b2,0-1,1,---,,,NYY,Gleyber Torres,Hyun Jin Ryu,-3%,55%,Single to LF (Fly Ball to Short LF)
+14,NYA202104010,b2,0-1,1,1--,,O,NYY,Gio Urshela,Hyun Jin Ryu,3%,59%,Strikeout Swinging
+15,NYA202104010,b2,0-1,2,1--,,RR,NYY,Gary Sanchez,Hyun Jin Ryu,-21%,38%,Home Run (Fly Ball to Deep LF); Torres Scores
+16,NYA202104010,b2,2-1,2,---,,O,NYY,Jay Bruce,Hyun Jin Ryu,1%,39%,Popfly: SS (Short CF)
+17,NYA202104010,t3,1-2,0,---,,O,TOR,Marcus Semien,Gerrit Cole,-3%,36%,Popfly: SS (Deep SS-3B Hole)
+18,NYA202104010,t3,1-2,1,---,,O,TOR,Cavan Biggio,Gerrit Cole,-2%,34%,Strikeout Looking
+19,NYA202104010,t3,1-2,2,---,,O,TOR,Bo Bichette,Gerrit Cole,-1%,33%,Strikeout Looking
+20,NYA202104010,b3,2-1,0,---,,O,NYY,Clint Frazier,Hyun Jin Ryu,2%,35%,Groundout: SS-1B (Weak SS)
+21,NYA202104010,b3,2-1,1,---,,O,NYY,DJ LeMahieu,Hyun Jin Ryu,2%,37%,Groundout: 3B-1B (SS-3B Hole)
+22,NYA202104010,b3,2-1,2,---,,O,NYY,Aaron Judge,Hyun Jin Ryu,1%,38%,Groundout: SS-1B
+23,NYA202104010,t4,1-2,0,---,,O,TOR,Teoscar Hernandez,Gerrit Cole,-3%,35%,Strikeout Looking
+24,NYA202104010,t4,1-2,1,---,,,TOR,Vladimir Guerrero Jr.,Gerrit Cole,3%,38%,Walk
+25,NYA202104010,t4,1-2,1,1--,,O,TOR,Lourdes Gurriel Jr.,Gerrit Cole,-4%,34%,Strikeout Swinging
+26,NYA202104010,t4,1-2,2,1--,,O,TOR,Rowdy Tellez,Gerrit Cole,-3%,31%,Flyball: RF (CF-RF)
+27,NYA202104010,b4,2-1,0,---,,O,NYY,Aaron Hicks,Hyun Jin Ryu,2%,34%,Strikeout Swinging
+28,NYA202104010,b4,2-1,1,---,,O,NYY,Giancarlo Stanton,Hyun Jin Ryu,2%,35%,Groundout: P-1B (P's Right)
+29,NYA202104010,b4,2-1,2,---,,O,NYY,Gleyber Torres,Hyun Jin Ryu,1%,36%,Strikeout Looking
+30,NYA202104010,t5,1-2,0,---,,O,TOR,Randal Grichuk,Gerrit Cole,-3%,33%,Flyball: CF (Deep LF-CF)
+31,NYA202104010,t5,1-2,1,---,,,TOR,Danny Jansen,Gerrit Cole,4%,37%,Single to LF (Line Drive)
+32,NYA202104010,t5,1-2,1,1--,,O,TOR,Marcus Semien,Gerrit Cole,-4%,33%,Flyball: LF (Deep LF-CF)
+33,NYA202104010,t5,1-2,2,1--,,O,TOR,Cavan Biggio,Gerrit Cole,-3%,29%,Flyball: LF (Deep LF-CF)
+34,NYA202104010,b5,2-1,0,---,,O,NYY,Gio Urshela,Hyun Jin Ryu,2%,31%,Flyball: RF (Deep 1B)
+35,NYA202104010,b5,2-1,1,---,,O,NYY,Gary Sanchez,Hyun Jin Ryu,2%,33%,Flyball: LF (Deep LF)
+36,NYA202104010,b5,2-1,2,---,,,NYY,Jay Bruce,Hyun Jin Ryu,-1%,32%,Walk
+37,NYA202104010,b5,2-1,2,1--,,,NYY,Clint Frazier,Hyun Jin Ryu,-2%,30%,Single to 3B (Ground Ball); Bruce to 2B
+38,NYA202104010,b5,2-1,2,12-,,O,NYY,DJ LeMahieu,Hyun Jin Ryu,4%,34%,Groundout: 2B-1B (Deep 2B)
+39,NYA202104010,t6,1-2,0,---,,O,TOR,Bo Bichette,Gerrit Cole,-4%,30%,Strikeout Swinging
+40,NYA202104010,t6,1-2,1,---,,R,TOR,Teoscar Hernandez,Gerrit Cole,16%,47%,Home Run (Fly Ball to Deep LF)
+41,NYA202104010,t6,2-2,1,---,,,TOR,Vladimir Guerrero Jr.,Gerrit Cole,4%,50%,Walk
+42,NYA202104010,t6,2-2,1,1--,,OO,TOR,Lourdes Gurriel Jr.,Chad Green,-8%,42%,Ground Ball Double Play: 3B-2B-1B
+43,NYA202104010,b6,2-2,0,---,,,NYY,Aaron Judge,Hyun Jin Ryu,-5%,37%,Single to LF (Ground Ball)
+44,NYA202104010,b6,2-2,0,1--,,O,NYY,Aaron Hicks,Hyun Jin Ryu,5%,42%,Groundout: 3B-2B/Forceout at 2B; Hicks to 1B
+45,NYA202104010,b6,2-2,1,1--,,O,NYY,Giancarlo Stanton,Tyler Chatwood,4%,46%,Strikeout Swinging
+46,NYA202104010,b6,2-2,2,1--,,,NYY,Gleyber Torres,Tyler Chatwood,-3%,44%,Walk; Hicks to 2B
+47,NYA202104010,b6,2-2,2,12-,,O,NYY,Gio Urshela,Tyler Chatwood,6%,50%,Groundout: 3B-1B
+48,NYA202104010,t7,2-2,0,---,,O,TOR,Rowdy Tellez,Chad Green,-4%,46%,Popfly: 3B
+49,NYA202104010,t7,2-2,1,---,,,TOR,Randal Grichuk,Chad Green,4%,50%,Single to CF (Line Drive to Short CF)
+50,NYA202104010,t7,2-2,1,1--,,O,TOR,Danny Jansen,Chad Green,-5%,45%,Popfly: 2B (Deep 2B)
+51,NYA202104010,t7,2-2,2,1--,,O,TOR,Marcus Semien,Chad Green,-4%,41%,Grichuk Caught Stealing 2B (C-2B)
+52,NYA202104010,b7,2-2,0,---,,,NYY,Gary Sanchez,David Phelps,-6%,35%,Single to SS (Ground Ball to SS-3B Hole)
+53,NYA202104010,b7,2-2,0,1--,,O,NYY,Jay Bruce,David Phelps,5%,41%,Flyball: RF (Deep CF-RF)
+54,NYA202104010,b7,2-2,1,1--,,,NYY,Clint Frazier,David Phelps,-5%,35%,Single to SS (Pop Fly to Short LF); Sanchez to 2B
+55,NYA202104010,b7,2-2,1,12-,,,NYY,DJ LeMahieu,David Phelps,-9%,26%,Walk; Sanchez to 3B; Frazier to 2B
+56,NYA202104010,b7,2-2,1,123,,OO,NYY,Aaron Judge,David Phelps,24%,50%,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+57,NYA202104010,t8,2-2,0,---,,O,TOR,Marcus Semien,Jonathan Loaisiga,-5%,45%,Strikeout Swinging
+58,NYA202104010,t8,2-2,1,---,,O,TOR,Cavan Biggio,Jonathan Loaisiga,-4%,42%,Flyball: CF
+59,NYA202104010,t8,2-2,2,---,,O,TOR,Bo Bichette,Jonathan Loaisiga,-3%,39%,Groundout: 2B-P
+60,NYA202104010,b8,2-2,0,---,,,NYY,Aaron Hicks,Rafael Dolis,-6%,33%,Walk
+61,NYA202104010,b8,2-2,0,1--,,O,NYY,Giancarlo Stanton,Rafael Dolis,6%,39%,Strikeout Swinging
+62,NYA202104010,b8,2-2,1,1--,,O,NYY,Gleyber Torres,Rafael Dolis,6%,45%,Popfly: 1B (2B-1B)
+63,NYA202104010,b8,2-2,2,1--,,O,NYY,Gio Urshela,Rafael Dolis,5%,50%,Strikeout Looking
+64,NYA202104010,t9,2-2,0,---,,,TOR,Teoscar Hernandez,Darren O'Day,8%,58%,Single to SS (Ground Ball)
+65,NYA202104010,t9,2-2,0,1--,,O,TOR,Vladimir Guerrero Jr.,Darren O'Day,-8%,50%,Popfly: 2B (Deep 2B)
+66,NYA202104010,t9,2-2,1,1--,,O,TOR,Lourdes Gurriel Jr.,Darren O'Day,-7%,43%,Strikeout Swinging
+67,NYA202104010,t9,2-2,2,1--,,O,TOR,Rowdy Tellez,Darren O'Day,-7%,36%,Foul Popfly: RF (RF into Foul Terr.)
+68,NYA202104010,b9,2-2,0,---,,,NYY,Gary Sanchez,Jordan Romano,-7%,29%,Walk
+69,NYA202104010,b9,2-2,0,1--,,,NYY,Jay Bruce,Jordan Romano,-10%,19%,Tauchman Steals 2B
+70,NYA202104010,b9,2-2,0,-2-,,O,NYY,Jay Bruce,Jordan Romano,11%,30%,Strikeout Swinging
+71,NYA202104010,b9,2-2,1,-2-,,,NYY,Clint Frazier,Jordan Romano,-13%,17%,Tauchman Steals 3B
+72,NYA202104010,b9,2-2,1,--3,,,NYY,Clint Frazier,Jordan Romano,0%,17%,Walk
+73,NYA202104010,b9,2-2,1,1-3,,O,NYY,DJ LeMahieu,Jordan Romano,21%,39%,Fielder's Choice ; Tauchman out at Hm/3B-C; Gardner to 2B; LeMahieu to 1B
+74,NYA202104010,b9,2-2,2,12-,,O,NYY,Aaron Judge,Jordan Romano,11%,50%,Strikeout Swinging
+75,NYA202104010,t10,2-2,0,-2-,,R,TOR,Randal Grichuk,Nick Nelson,23%,73%,Double to RF (Line Drive to Deep RF); Davis Scores/unER
+76,NYA202104010,t10,3-2,0,-2-,,O,TOR,Danny Jansen,Nick Nelson,-6%,67%,Strikeout (missed bunt); Jansen out at 1B/C-2B
+77,NYA202104010,t10,3-2,1,-2-,,O,TOR,Marcus Semien,Nick Nelson,-6%,61%,Strikeout Swinging
+78,NYA202104010,t10,3-2,2,-2-,,O,TOR,Cavan Biggio,Nick Nelson,-6%,55%,Strikeout Looking
+79,NYA202104010,b10,2-3,0,-2-,,O,NYY,Aaron Hicks,Julian Merryweather,16%,71%,Strikeout Looking
+80,NYA202104010,b10,2-3,1,-2-,,O,NYY,Giancarlo Stanton,Julian Merryweather,14%,85%,Strikeout Swinging
+81,NYA202104010,b10,2-3,2,-2-,,O,NYY,Gleyber Torres,Julian Merryweather,15%,100%,Strikeout Swinging
+0,DET202104010,t1,0-0,0,---,,O,CLE,Jordan Luplow,Matthew Boyd,2%,52%,Flyball: CF
+1,DET202104010,t1,0-0,1,---,,,CLE,Cesar Hernandez,Matthew Boyd,-4%,48%,Double to LF (Line Drive to Short LF Line)
+2,DET202104010,t1,0-0,1,-2-,,O,CLE,Jose Ramirez,Matthew Boyd,3%,52%,Popfly: SS (Deep SS)
+3,DET202104010,t1,0-0,2,-2-,,,CLE,Eddie Rosario,Matthew Boyd,0%,51%,Wild Pitch; Hernandez to 3B
+4,DET202104010,t1,0-0,2,--3,,O,CLE,Eddie Rosario,Matthew Boyd,4%,55%,Groundout: 2B-1B (2B-1B)
+5,DET202104010,b1,0-0,0,---,,O,DET,Robbie Grossman,Shane Bieber,-2%,53%,Lineout: LF (Deep LF-CF)
+6,DET202104010,b1,0-0,1,---,,,DET,Jeimer Candelario,Shane Bieber,2%,55%,Single to LF (Ground Ball thru SS-3B Hole)
+7,DET202104010,b1,0-0,1,1--,,O,DET,Willi Castro,Shane Bieber,-3%,52%,Strikeout Swinging
+8,DET202104010,b1,0-0,2,1--,,RR,DET,Miguel Cabrera,Shane Bieber,19%,71%,Home Run (Line Drive to Deep RF); Candelario Scores
+9,DET202104010,b1,2-0,2,---,,,DET,Jonathan Schoop,Shane Bieber,1%,72%,Single to RF (Line Drive to Short RF)
+10,DET202104010,b1,2-0,2,1--,,O,DET,Nomar Mazara,Shane Bieber,-2%,70%,Strikeout Swinging
+11,DET202104010,t2,0-2,0,---,,O,CLE,Franmil Reyes,Matthew Boyd,2%,72%,Flyball: CF (Deep CF)
+12,DET202104010,t2,0-2,1,---,,O,CLE,Josh Naylor,Matthew Boyd,2%,74%,Strikeout Swinging
+13,DET202104010,t2,0-2,2,---,,O,CLE,Yu Chang,Matthew Boyd,1%,75%,Flyball: CF (Deep CF)
+14,DET202104010,b2,2-0,0,---,,O,DET,Wilson Ramos,Shane Bieber,-2%,73%,Strikeout Swinging
+15,DET202104010,b2,2-0,1,---,,,DET,Victor Reyes,Shane Bieber,2%,75%,"Strikeout Swinging, Wild Pitch; Reyes to 1B"
+16,DET202104010,b2,2-0,1,1--,,R,DET,JaCoby Jones,Shane Bieber,10%,85%,Double to LF (Line Drive to Deep LF Line); Reyes Scores; Jones to 3B/Adv on E5 (throw)
+17,DET202104010,b2,3-0,1,--3,,,DET,Robbie Grossman,Shane Bieber,1%,86%,Walk
+18,DET202104010,b2,3-0,1,1-3,,,DET,Jeimer Candelario,Shane Bieber,1%,87%,Grossman Steals 2B
+19,DET202104010,b2,3-0,1,-23,,O,DET,Jeimer Candelario,Shane Bieber,-4%,83%,Strikeout Swinging
+20,DET202104010,b2,3-0,2,-23,,O,DET,Willi Castro,Shane Bieber,-3%,80%,Flyball: SS (Short LF-CF)
+21,DET202104010,t3,0-3,0,---,,,CLE,Roberto Perez,Matthew Boyd,-4%,76%,Walk
+22,DET202104010,t3,0-3,0,1--,,O,CLE,Andres Gimenez,Matthew Boyd,3%,80%,Groundout: 3B-SS/Forceout at 2B (SS-3B Hole); Gimenez to 1B
+23,DET202104010,t3,0-3,1,1--,,O,CLE,Jordan Luplow,Matthew Boyd,3%,82%,Strikeout Swinging
+24,DET202104010,t3,0-3,2,1--,,O,CLE,Cesar Hernandez,Matthew Boyd,2%,84%,Groundout: SS-2B/Forceout at 2B; Hernandez to 1B
+25,DET202104010,b3,3-0,0,---,,O,DET,Miguel Cabrera,Shane Bieber,-1%,83%,Flyball: RF (CF-RF)
+26,DET202104010,b3,3-0,1,---,,,DET,Jonathan Schoop,Shane Bieber,1%,84%,Walk
+27,DET202104010,b3,3-0,1,1--,,O,DET,Nomar Mazara,Shane Bieber,-1%,83%,Strikeout Looking
+28,DET202104010,b3,3-0,2,1--,,O,DET,Wilson Ramos,Shane Bieber,-1%,82%,Strikeout Swinging
+29,DET202104010,t4,0-3,0,---,,,CLE,Jose Ramirez,Matthew Boyd,-4%,78%,Single to 3B (Ground Ball)
+30,DET202104010,t4,0-3,0,1--,,O,CLE,Eddie Rosario,Matthew Boyd,3%,82%,Groundout: 2B-SS/Forceout at 2B; Rosario to 1B
+31,DET202104010,t4,0-3,1,1--,,,CLE,Franmil Reyes,Matthew Boyd,-4%,78%,Walk; Rosario to 2B
+32,DET202104010,t4,0-3,1,12-,,O,CLE,Josh Naylor,Matthew Boyd,4%,82%,Groundout: 1B-SS/Forceout at 2B (2B-1B); Rosario to 3B; Naylor to 1B
+33,DET202104010,t4,0-3,2,1-3,,O,CLE,Yu Chang,Matthew Boyd,5%,86%,Foul Popfly: C (Behind Home)
+34,DET202104010,b4,3-0,0,---,,O,DET,Victor Reyes,Shane Bieber,-1%,85%,Groundout: 2B-1B
+35,DET202104010,b4,3-0,1,---,,O,DET,JaCoby Jones,Shane Bieber,-1%,85%,Strikeout Swinging
+36,DET202104010,b4,3-0,2,---,,,DET,Robbie Grossman,Shane Bieber,1%,85%,Walk
+37,DET202104010,b4,3-0,2,1--,,O,DET,Jeimer Candelario,Shane Bieber,-1%,84%,Strikeout Swinging
+38,DET202104010,t5,0-3,0,---,,,CLE,Roberto Perez,Matthew Boyd,-4%,80%,Walk
+39,DET202104010,t5,0-3,0,1--,,O,CLE,Andres Gimenez,Matthew Boyd,4%,84%,Foul Popfly: C (Behind Home)
+40,DET202104010,t5,0-3,1,1--,,O,CLE,Jordan Luplow,Matthew Boyd,3%,87%,Groundout: P-2B/Forceout at 2B (Weak SS-2B); Luplow to 1B
+41,DET202104010,t5,0-3,2,1--,,,CLE,Cesar Hernandez,Matthew Boyd,-1%,86%,Wild Pitch; Luplow to 2B
+42,DET202104010,t5,0-3,2,-2-,,,CLE,Cesar Hernandez,Matthew Boyd,-1%,85%,Walk
+43,DET202104010,t5,0-3,2,12-,,O,CLE,Jose Ramirez,Matthew Boyd,4%,89%,Flyball: RF (Deep CF-RF)
+44,DET202104010,b5,3-0,0,---,,,DET,Willi Castro,Shane Bieber,1%,90%,Single to CF (Ground Ball)
+45,DET202104010,b5,3-0,0,1--,,,DET,Miguel Cabrera,Shane Bieber,1%,91%,Wild Pitch; Castro to 2B
+46,DET202104010,b5,3-0,0,-2-,,O,DET,Miguel Cabrera,Shane Bieber,-2%,90%,Groundout: SS-1B
+47,DET202104010,b5,3-0,1,-2-,,O,DET,Jonathan Schoop,Shane Bieber,-1%,88%,Strikeout Swinging
+48,DET202104010,b5,3-0,2,-2-,,O,DET,Nomar Mazara,Shane Bieber,-1%,87%,Groundout: 2B-1B
+49,DET202104010,t6,0-3,0,---,,O,CLE,Eddie Rosario,Matthew Boyd,2%,89%,Groundout: 2B-1B
+50,DET202104010,t6,0-3,1,---,,O,CLE,Franmil Reyes,Matthew Boyd,2%,91%,Groundout: 3B-1B (SS-3B Hole)
+51,DET202104010,t6,0-3,2,---,,,CLE,Josh Naylor,Matthew Boyd,-1%,89%,Single to CF (Line Drive to Short CF)
+52,DET202104010,t6,0-3,2,1--,,O,CLE,Jake Bauers,Jose Cisnero,2%,91%,Popfly: SS (Weak SS-2B)
+53,DET202104010,b6,3-0,0,---,,O,DET,Wilson Ramos,Shane Bieber,-1%,91%,Strikeout Looking
+54,DET202104010,b6,3-0,1,---,,O,DET,Victor Reyes,Shane Bieber,-1%,90%,Strikeout Swinging; Reyes out at 1B/C-1B
+55,DET202104010,b6,3-0,2,---,,O,DET,JaCoby Jones,Shane Bieber,0%,90%,Lineout: CF (Deep CF-RF)
+56,DET202104010,t7,0-3,0,---,,O,CLE,Roberto Perez,Jose Cisnero,2%,92%,Strikeout Looking
+57,DET202104010,t7,0-3,1,---,,O,CLE,Andres Gimenez,Jose Cisnero,1%,94%,Strikeout Swinging
+58,DET202104010,t7,0-3,2,---,,O,CLE,Ben Gamel,Daniel Norris,1%,94%,Strikeout Swinging
+59,DET202104010,b7,3-0,0,---,,,DET,Robbie Grossman,Bryan Shaw,1%,95%,Walk
+60,DET202104010,b7,3-0,0,1--,,O,DET,Jeimer Candelario,Bryan Shaw,-1%,94%,Strikeout Swinging
+61,DET202104010,b7,3-0,1,1--,,O,DET,Willi Castro,Bryan Shaw,-1%,94%,Groundout: 3B-2B/Forceout at 2B (Weak SS); Castro to 1B
+62,DET202104010,b7,3-0,2,1--,,O,DET,Miguel Cabrera,Bryan Shaw,-1%,93%,Groundout: 2B-1B (SS-2B)
+63,DET202104010,t8,0-3,0,---,,O,CLE,Cesar Hernandez,Daniel Norris,2%,95%,Flyball: CF (Deep CF)
+64,DET202104010,t8,0-3,1,---,,,CLE,Jose Ramirez,Daniel Norris,-3%,93%,Walk
+65,DET202104010,t8,0-3,1,1--,,,CLE,Eddie Rosario,Daniel Norris,-5%,88%,Single to RF (Line Drive to Short RF); Ramirez to 2B
+66,DET202104010,t8,0-3,1,12-,,OO,CLE,Franmil Reyes,Daniel Norris,9%,97%,Ground Ball Double Play: SS-2B-1B
+67,DET202104010,b8,3-0,0,---,,O,DET,Jonathan Schoop,James Karinchak,0%,97%,Strikeout Looking
+68,DET202104010,b8,3-0,1,---,,O,DET,Nomar Mazara,James Karinchak,0%,97%,Flyball: CF (Deep CF)
+69,DET202104010,b8,3-0,2,---,,,DET,Wilson Ramos,James Karinchak,0%,97%,Walk
+70,DET202104010,b8,3-0,2,1--,,O,DET,Victor Reyes,James Karinchak,0%,97%,Lineout: LF
+71,DET202104010,t9,0-3,0,---,,O,CLE,Josh Naylor,Gregory Soto,2%,99%,Groundout: 3B-1B
+72,DET202104010,t9,0-3,1,---,,,CLE,Amed Rosario,Gregory Soto,-2%,96%,Single to 3B (Ground Ball to Weak 3B)
+73,DET202104010,t9,0-3,1,1--,,RR,CLE,Roberto Perez,Gregory Soto,-5%,91%,Home Run (Fly Ball to Deep LF); Rosario Scores
+74,DET202104010,t9,2-3,1,---,,O,CLE,Andres Gimenez,Gregory Soto,5%,96%,Groundout: 2B-1B
+75,DET202104010,t9,2-3,2,---,,,CLE,Ben Gamel,Gregory Soto,-4%,92%,Walk
+76,DET202104010,t9,2-3,2,1--,,O,CLE,Cesar Hernandez,Gregory Soto,8%,100%,Flyball: 2B (Short RF)
+0,MIL202104010,t1,0-0,0,---,,O,MIN,Luis Arraez,Brandon Woodruff,2%,52%,Lineout: SS (Deep SS)
+1,MIL202104010,t1,0-0,1,---,,,MIN,Josh Donaldson,Brandon Woodruff,-4%,48%,Double to CF (Line Drive to LF-CF)
+2,MIL202104010,t1,0-0,1,-2-,,O,MIN,Jorge Polanco,Brandon Woodruff,3%,52%,Strikeout Swinging
+3,MIL202104010,t1,0-0,2,-2-,,,MIN,Miguel Sano,Brandon Woodruff,-1%,51%,Walk
+4,MIL202104010,t1,0-0,2,12-,,O,MIN,Max Kepler,Brandon Woodruff,4%,55%,Groundout: 2B-1B (Deep 2B-1B)
+5,MIL202104010,b1,0-0,0,---,,O,MIL,Kolten Wong,Kenta Maeda,-2%,53%,Strikeout Swinging
+6,MIL202104010,b1,0-0,1,---,,O,MIL,Keston Hiura,Kenta Maeda,-2%,51%,Strikeout Looking
+7,MIL202104010,b1,0-0,2,---,,O,MIL,Christian Yelich,Kenta Maeda,-1%,50%,Groundout: 2B-1B
+8,MIL202104010,t2,0-0,0,---,,O,MIN,Byron Buxton,Brandon Woodruff,2%,52%,Strikeout Swinging
+9,MIL202104010,t2,0-0,1,---,,O,MIN,Mitch Garver,Brandon Woodruff,2%,54%,Strikeout Swinging
+10,MIL202104010,t2,0-0,2,---,,,MIN,Andrelton Simmons,Brandon Woodruff,-1%,53%,Single to 2B (Ground Ball to SS-2B)
+11,MIL202104010,t2,0-0,2,1--,,O,MIN,Kenta Maeda,Brandon Woodruff,2%,55%,Popfly: 2B
+12,MIL202104010,b2,0-0,0,---,,,MIL,Avisail Garcia,Kenta Maeda,4%,59%,Single to LF (Line Drive to Short LF-CF)
+13,MIL202104010,b2,0-0,0,1--,,,MIL,Travis Shaw,Kenta Maeda,6%,64%,Single to SS (Ground Ball to SS-2B); Garcia to 2B
+14,MIL202104010,b2,0-0,0,12-,,O,MIL,Lorenzo Cain,Kenta Maeda,-5%,59%,Popfly: 1B (Deep 1B)
+15,MIL202104010,b2,0-0,1,12-,,O,MIL,Omar Narvaez,Kenta Maeda,-5%,54%,Flyball: CF (Deep LF-CF)
+16,MIL202104010,b2,0-0,2,12-,,O,MIL,Luis Urias,Kenta Maeda,-4%,50%,Foul Popfly: 3B
+17,MIL202104010,t3,0-0,0,---,,O,MIN,Luis Arraez,Brandon Woodruff,3%,53%,Groundout: 2B-1B (Deep 2B)
+18,MIL202104010,t3,0-0,1,---,,,MIN,Jake Cave,Brandon Woodruff,-3%,50%,Walk
+19,MIL202104010,t3,0-0,1,1--,,O,MIN,Jorge Polanco,Brandon Woodruff,3%,53%,Lineout: 2B
+20,MIL202104010,t3,0-0,2,1--,,,MIN,Miguel Sano,Brandon Woodruff,-3%,50%,Single to RF (Line Drive to Short CF-RF); Cave to 3B
+21,MIL202104010,t3,0-0,2,1-3,,R,MIN,Max Kepler,Brandon Woodruff,-10%,40%,Wild Pitch; Cave Scores/No RBI; Sano to 2B
+22,MIL202104010,t3,1-0,2,-2-,,R,MIN,Max Kepler,Brandon Woodruff,-9%,31%,Single to CF (Line Drive to Short LF-CF); Sano Scores
+23,MIL202104010,t3,2-0,2,1--,,O,MIN,Byron Buxton,Brandon Woodruff,2%,33%,Strikeout Swinging
+24,MIL202104010,b3,0-2,0,---,,O,MIL,Brandon Woodruff,Kenta Maeda,-3%,30%,Strikeout Swinging
+25,MIL202104010,b3,0-2,1,---,,,MIL,Kolten Wong,Kenta Maeda,3%,33%,Single to RF (Line Drive to Short RF Line)
+26,MIL202104010,b3,0-2,1,1--,,O,MIL,Keston Hiura,Kenta Maeda,-3%,30%,Flyball: CF (Deep CF-RF)
+27,MIL202104010,b3,0-2,2,1--,,,MIL,Christian Yelich,Kenta Maeda,2%,32%,Hit By Pitch; Wong to 2B
+28,MIL202104010,b3,0-2,2,12-,,,MIL,Avisail Garcia,Kenta Maeda,4%,36%,Single to 3B (Ground Ball to Weak 3B); Wong to 3B; Yelich to 2B
+29,MIL202104010,b3,0-2,2,123,,R,MIL,Travis Shaw,Kenta Maeda,11%,47%,Walk; Wong Scores; Yelich to 3B; Garcia to 2B
+30,MIL202104010,b3,1-2,2,123,,O,MIL,Lorenzo Cain,Kenta Maeda,-9%,38%,Groundout: 3B-1B (SS-3B Hole)
+31,MIL202104010,t4,2-1,0,---,,O,MIN,Mitch Garver,Brandon Woodruff,2%,40%,Strikeout Looking
+32,MIL202104010,t4,2-1,1,---,,,MIN,Andrelton Simmons,Brandon Woodruff,-3%,38%,Single to CF (Fly Ball)
+33,MIL202104010,t4,2-1,1,1--,,O,MIN,Kenta Maeda,Brandon Woodruff,2%,39%,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Simmons to 2B
+34,MIL202104010,t4,2-1,2,-2-,,R,MIN,Luis Arraez,Brandon Woodruff,-10%,29%,Single to CF (Line Drive to LF-CF); Simmons Scores
+35,MIL202104010,t4,3-1,2,1--,,O,MIN,Jake Cave,Brandon Woodruff,2%,31%,Groundout: 3B-1B
+36,MIL202104010,b4,1-3,0,---,,O,MIL,Omar Narvaez,Kenta Maeda,-3%,28%,Groundout: 2B-1B (2B-1B)
+37,MIL202104010,b4,1-3,1,---,,O,MIL,Luis Urias,Kenta Maeda,-2%,26%,Lineout: P-1B (Weak SS-2B)
+38,MIL202104010,b4,1-3,2,---,,,MIL,Billy McKinney,Kenta Maeda,2%,28%,Single to CF (Line Drive)
+39,MIL202104010,b4,1-3,2,1--,,,MIL,Kolten Wong,Kenta Maeda,3%,30%,Walk; McKinney to 2B
+40,MIL202104010,b4,1-3,2,12-,,O,MIL,Keston Hiura,Kenta Maeda,-5%,25%,Strikeout Swinging
+41,MIL202104010,t5,3-1,0,---,,O,MIN,Jorge Polanco,Freddy Peralta,2%,27%,Strikeout Swinging
+42,MIL202104010,t5,3-1,1,---,,O,MIN,Miguel Sano,Freddy Peralta,1%,28%,Strikeout Swinging
+43,MIL202104010,t5,3-1,2,---,,,MIN,Max Kepler,Freddy Peralta,-2%,26%,Triple to RF (Line Drive to Deep RF)
+44,MIL202104010,t5,3-1,2,--3,,,MIN,Byron Buxton,Freddy Peralta,-1%,25%,Walk
+45,MIL202104010,t5,3-1,2,1-3,,,MIN,Mitch Garver,Freddy Peralta,-1%,24%,Buxton Steals 2B
+46,MIL202104010,t5,3-1,2,-23,,O,MIN,Mitch Garver,Freddy Peralta,5%,29%,Strikeout Swinging
+47,MIL202104010,b5,1-3,0,---,,,MIL,Christian Yelich,Kenta Maeda,5%,34%,Single to RF (Line Drive to Short RF)
+48,MIL202104010,b5,1-3,0,1--,,O,MIL,Avisail Garcia,Kenta Maeda,-5%,29%,Strikeout Looking
+49,MIL202104010,b5,1-3,1,1--,,,MIL,Travis Shaw,Kenta Maeda,5%,35%,Fielder's Choice 1B; Yelich to 2B/Safe on E6 (catch); Shaw to 1B
+50,MIL202104010,b5,1-3,1,12-,,,MIL,Lorenzo Cain,Tyler Duffey,9%,43%,Single to CF (Line Drive to Short CF); Yelich to 3B; Shaw to 2B
+51,MIL202104010,b5,1-3,1,123,,RO,MIL,Omar Narvaez,Tyler Duffey,-3%,41%,Single to LF (Fly Ball to Short LF Line); Yelich Scores/unER; Shaw out at Hm/LF-C; Cain to 2B
+52,MIL202104010,b5,2-3,2,12-,,O,MIL,Daniel Vogelbach,Tyler Duffey,-7%,34%,Groundout: SS-1B (SS-2B)
+53,MIL202104010,t6,3-2,0,---,,,MIN,Andrelton Simmons,Freddy Peralta,-4%,30%,Walk
+54,MIL202104010,t6,3-2,0,1--,,O,MIN,Nelson Cruz,Freddy Peralta,4%,34%,Strikeout Swinging
+55,MIL202104010,t6,3-2,1,1--,,,MIN,Luis Arraez,Freddy Peralta,-4%,30%,Single to RF (Ground Ball thru 2B-1B); Simmons to 2B
+56,MIL202104010,t6,3-2,1,12-,,O,MIN,Jake Cave,Freddy Peralta,5%,35%,Strikeout Looking
+57,MIL202104010,t6,3-2,2,12-,,,MIN,Jorge Polanco,Freddy Peralta,-3%,32%,Walk; Simmons to 3B; Arraez to 2B
+58,MIL202104010,t6,3-2,2,123,,O,MIN,Miguel Sano,Freddy Peralta,8%,40%,Strikeout Swinging
+59,MIL202104010,b6,2-3,0,---,,O,MIL,Jackie Bradley Jr.,Cody Stashak,-4%,36%,Flyball: RF (Short RF)
+60,MIL202104010,b6,2-3,1,---,,O,MIL,Kolten Wong,Cody Stashak,-3%,33%,Strikeout Swinging
+61,MIL202104010,b6,2-3,2,---,,O,MIL,Keston Hiura,Cody Stashak,-2%,31%,Popfly: 1B (Weak 2B)
+62,MIL202104010,t7,3-2,0,---,,,MIN,Max Kepler,Eric Yardley,-7%,24%,Double to SS (Ground Ball)
+63,MIL202104010,t7,3-2,0,-2-,,RR,MIN,Byron Buxton,Eric Yardley,-13%,11%,Home Run (Fly Ball to Deep LF-CF); Kepler Scores
+64,MIL202104010,t7,5-2,0,---,,O,MIN,Mitch Garver,Eric Yardley,1%,12%,Groundout: 3B-1B (SS-3B Hole)
+65,MIL202104010,t7,5-2,1,---,,O,MIN,Andrelton Simmons,Eric Yardley,1%,12%,Lineout: RF
+66,MIL202104010,t7,5-2,2,---,,O,MIN,Kyle Garlick,Eric Yardley,1%,13%,Groundout: SS-1B
+67,MIL202104010,b7,2-5,0,---,,O,MIL,Christian Yelich,Taylor Rogers,-3%,10%,Strikeout Swinging
+68,MIL202104010,b7,2-5,1,---,,O,MIL,Avisail Garcia,Taylor Rogers,-2%,8%,Flyball: CF (Deep CF)
+69,MIL202104010,b7,2-5,2,---,,O,MIL,Travis Shaw,Taylor Rogers,-1%,7%,Groundout: P-1B (Front of Home)
+70,MIL202104010,t8,5-2,0,---,,,MIN,Luis Arraez,J.P. Feyereisen,-1%,6%,Walk
+71,MIL202104010,t8,5-2,0,1--,,O,MIN,Jake Cave,J.P. Feyereisen,1%,7%,Strikeout Swinging
+72,MIL202104010,t8,5-2,1,1--,,O,MIN,Jorge Polanco,J.P. Feyereisen,0%,8%,Groundout: P unassisted (Weak 2B-1B); Arraez to 2B
+73,MIL202104010,t8,5-2,2,-2-,,O,MIN,Miguel Sano,J.P. Feyereisen,1%,9%,Strikeout Swinging
+74,MIL202104010,b8,2-5,0,---,,O,MIL,Lorenzo Cain,Hansel Robles,-3%,6%,Strikeout Swinging
+75,MIL202104010,b8,2-5,1,---,,O,MIL,Omar Narvaez,Hansel Robles,-2%,4%,Strikeout Swinging
+76,MIL202104010,b8,2-5,2,---,,O,MIL,Orlando Arcia,Hansel Robles,-1%,3%,Flyball: CF (Deep CF-RF)
+77,MIL202104010,t9,5-2,0,---,,O,MIN,Max Kepler,Josh Lindblom,0%,4%,Flyball: LF
+78,MIL202104010,t9,5-2,1,---,,,MIN,Byron Buxton,Josh Lindblom,0%,3%,Walk
+79,MIL202104010,t9,5-2,1,1--,,O,MIN,Mitch Garver,Josh Lindblom,0%,4%,Flyball: LF (Deep LF)
+80,MIL202104010,t9,5-2,2,1--,,O,MIN,Andrelton Simmons,Josh Lindblom,0%,4%,Strikeout Swinging
+81,MIL202104010,b9,2-5,0,---,,O,MIL,Daniel Robertson,Alex Colome,-2%,2%,Flyball: RF (Deep RF Line)
+82,MIL202104010,b9,2-5,1,---,,,MIL,Kolten Wong,Alex Colome,3%,5%,Hit By Pitch
+83,MIL202104010,b9,2-5,1,1--,,,MIL,Keston Hiura,Alex Colome,6%,10%,Fielder's Choice P; Wong to 2B/Adv on E1 (throw); Hiura to 1B
+84,MIL202104010,b9,2-5,1,12-,,R,MIL,Christian Yelich,Alex Colome,10%,20%,Single to RF (Fly Ball to Deep RF); Wong Scores/unER; Hiura to 2B
+85,MIL202104010,b9,3-5,1,12-,,O,MIL,Avisail Garcia,Alex Colome,-5%,15%,Groundout: 1B-P (Weak 2B-1B); Hiura to 3B; Yelich to 2B
+86,MIL202104010,b9,3-5,2,-23,,RR,MIL,Travis Shaw,Alex Colome,46%,61%,Double to RF (Line Drive to CF-RF); Hiura Scores/unER; Yelich Scores/unER
+87,MIL202104010,b9,5-5,2,-2-,,O,MIL,Lorenzo Cain,Alex Colome,-11%,50%,Groundout: SS-1B
+88,MIL202104010,t10,5-5,0,-2-,,O,MIN,Willians Astudillo,Josh Hader,11%,61%,Strikeout Swinging
+89,MIL202104010,t10,5-5,1,-2-,,,MIN,Luis Arraez,Josh Hader,-9%,52%,Wild Pitch; Simmons to 3B
+90,MIL202104010,t10,5-5,1,--3,,O,MIN,Luis Arraez,Josh Hader,16%,68%,Strikeout Swinging
+91,MIL202104010,t10,5-5,2,--3,,O,MIN,Jake Cave,Josh Hader,13%,81%,Strikeout Swinging
+92,MIL202104010,b10,5-5,0,-2-,,,MIL,Omar Narvaez,Randy Dobnak,12%,94%,Single to RF (Line Drive to Short RF); Cain to 3B
+93,MIL202104010,b10,5-5,0,1-3,,R,MIL,Orlando Arcia,Randy Dobnak,6%,100%,Fielder's Choice 2B; Cain Scores/unER; Narvaez to 2B; Arcia to 1B
+0,CHN202104010,t1,0-0,0,---,,,PIT,Adam Frazier,Kyle Hendricks,4%,54%,Walk
+1,CHN202104010,t1,0-0,0,1--,,RR,PIT,Ke'Bryan Hayes,Kyle Hendricks,15%,69%,Home Run (Fly Ball to Deep LF-CF); Frazier Scores
+2,CHN202104010,t1,2-0,0,---,,O,PIT,Bryan Reynolds,Kyle Hendricks,-2%,67%,Groundout: 1B-P
+3,CHN202104010,t1,2-0,1,---,,O,PIT,Colin Moran,Kyle Hendricks,-1%,66%,Strikeout Swinging
+4,CHN202104010,t1,2-0,2,---,,O,PIT,Kevin Newman,Kyle Hendricks,-1%,65%,Groundout: C-1B
+5,CHN202104010,b1,0-2,0,---,,,CHC,Ian Happ,Chad Kuhl,-4%,61%,Walk
+6,CHN202104010,b1,0-2,0,1--,,O,CHC,Willson Contreras,Chad Kuhl,4%,65%,Groundout: SS-2B/Forceout at 2B (SS-3B Hole); Contreras to 1B
+7,CHN202104010,b1,0-2,1,1--,,,CHC,Anthony Rizzo,Chad Kuhl,-9%,56%,Double to RF (Line Drive to CF-RF); Contreras to 3B
+8,CHN202104010,b1,0-2,1,-23,,,CHC,Kris Bryant,Chad Kuhl,-2%,54%,Walk
+9,CHN202104010,b1,0-2,1,123,,RO,CHC,Joc Pederson,Chad Kuhl,2%,56%,Flyball: LF/Sacrifice Fly (Deep LF); Contreras Scores
+10,CHN202104010,b1,1-2,2,12-,,O,CHC,Javier Baez,Chad Kuhl,4%,60%,Foul Popfly: C (Behind Home)
+11,CHN202104010,t2,2-1,0,---,,,PIT,Gregory Polanco,Kyle Hendricks,3%,64%,Walk
+12,CHN202104010,t2,2-1,0,1--,,,PIT,Jacob Stallings,Kyle Hendricks,5%,69%,Single to RF (Ground Ball thru 2B-1B); Polanco to 2B
+13,CHN202104010,t2,2-1,0,12-,,O,PIT,Anthony Alford,Kyle Hendricks,-5%,64%,Strikeout Looking
+14,CHN202104010,t2,2-1,1,12-,,O,PIT,Chad Kuhl,Kyle Hendricks,-3%,60%,Groundout: 2B-SS/Forceout at 2B; Polanco to 3B; Kuhl to 1B
+15,CHN202104010,t2,2-1,2,1-3,,R,PIT,Adam Frazier,Kyle Hendricks,9%,69%,Single to LF (Ground Ball thru SS-3B Hole); Polanco Scores; Kuhl to 2B
+16,CHN202104010,t2,3-1,2,12-,,O,PIT,Ke'Bryan Hayes,Kyle Hendricks,-3%,66%,Groundout: 3B unassisted/Forceout at 3B; Hayes to 1B
+17,CHN202104010,b2,1-3,0,---,,O,CHC,Jason Heyward,Chad Kuhl,2%,68%,Groundout: 2B-1B (2B-1B)
+18,CHN202104010,b2,1-3,1,---,,,CHC,David Bote,Chad Kuhl,-3%,66%,Walk
+19,CHN202104010,b2,1-3,1,1--,,O,CHC,Kyle Hendricks,Chad Kuhl,2%,68%,Bunt Groundout: 3B-1B/Sacrifice; Bote to 2B
+20,CHN202104010,b2,1-3,2,-2-,,O,CHC,Ian Happ,Chad Kuhl,3%,71%,Strikeout Swinging
+21,CHN202104010,t3,3-1,0,---,,,PIT,Bryan Reynolds,Kyle Hendricks,3%,74%,Single to 2B (Ground Ball)
+22,CHN202104010,t3,3-1,0,1--,,,PIT,Colin Moran,Kyle Hendricks,4%,78%,Walk; Reynolds to 2B
+23,CHN202104010,t3,3-1,0,12-,,O,PIT,Kevin Newman,Kyle Hendricks,-2%,77%,Lineout: RF (Deep RF); Reynolds to 3B
+24,CHN202104010,t3,3-1,1,1-3,,O,PIT,Gregory Polanco,Kyle Hendricks,-5%,71%,Strikeout Swinging
+25,CHN202104010,t3,3-1,2,1-3,,O,PIT,Jacob Stallings,Kyle Hendricks,-4%,67%,Strikeout Looking
+26,CHN202104010,b3,1-3,0,---,,,CHC,Willson Contreras,Chad Kuhl,-4%,63%,Reached on E4 (Ground Ball to Deep SS-2B); Contreras to 1B
+27,CHN202104010,b3,1-3,0,1--,,,CHC,Anthony Rizzo,Chad Kuhl,-6%,57%,Contreras Steals 2B; Contreras to 3B/Adv on E2 (throw)
+28,CHN202104010,b3,1-3,0,--3,,RO,CHC,Anthony Rizzo,Chad Kuhl,2%,59%,Flyball: RF/Sacrifice Fly (Deep RF Line); Contreras Scores/unER
+29,CHN202104010,b3,2-3,1,---,,O,CHC,Kris Bryant,Chad Kuhl,2%,61%,Groundout: 2B-1B (Deep SS-2B)
+30,CHN202104010,b3,2-3,2,---,,O,CHC,Joc Pederson,Chad Kuhl,1%,62%,Strikeout Swinging
+31,CHN202104010,t4,3-2,0,---,,,PIT,Anthony Alford,Brandon Workman,4%,66%,Walk
+32,CHN202104010,t4,3-2,0,1--,,O,PIT,Dustin Fowler,Brandon Workman,-6%,60%,Alford Caught Stealing (PO) 2B (P-1B-SS-2B)
+33,CHN202104010,t4,3-2,1,---,,,PIT,Dustin Fowler,Brandon Workman,3%,63%,Single to RF (Line Drive to Short RF Line)
+34,CHN202104010,t4,3-2,1,1--,,,PIT,Adam Frazier,Brandon Workman,4%,66%,Walk; Fowler to 2B
+35,CHN202104010,t4,3-2,1,12-,,,PIT,Ke'Bryan Hayes,Brandon Workman,5%,71%,Fowler Steals 3B; Frazier Steals 2B
+36,CHN202104010,t4,3-2,1,-23,,O,PIT,Ke'Bryan Hayes,Brandon Workman,-8%,63%,Lineout: RF (Deep RF)
+37,CHN202104010,t4,3-2,2,-23,,O,PIT,Bryan Reynolds,Rex Brothers,-6%,57%,Groundout: P-1B (Front of Home)
+38,CHN202104010,b4,2-3,0,---,,O,CHC,Javier Baez,Duane Underwood Jr.,3%,60%,Strikeout Swinging
+39,CHN202104010,b4,2-3,1,---,,O,CHC,Jason Heyward,Duane Underwood Jr.,2%,62%,Strikeout Swinging
+40,CHN202104010,b4,2-3,2,---,,O,CHC,David Bote,Duane Underwood Jr.,1%,64%,Strikeout Swinging
+41,CHN202104010,t5,3-2,0,---,,,PIT,Colin Moran,Rex Brothers,4%,68%,Walk
+42,CHN202104010,t5,3-2,0,1--,,,PIT,Kevin Newman,Rex Brothers,6%,73%,Single to LF (Ground Ball thru SS-3B Hole); Moran to 2B
+43,CHN202104010,t5,3-2,0,12-,,O,PIT,Gregory Polanco,Rex Brothers,-5%,68%,Strikeout Swinging
+44,CHN202104010,t5,3-2,1,12-,,R,PIT,Jacob Stallings,Jason Adam,14%,82%,Double to LF (Line Drive to Deep LF-CF); Moran Scores; Newman to 3B
+45,CHN202104010,t5,4-2,1,-23,,O,PIT,Anthony Alford,Jason Adam,-6%,76%,Strikeout Swinging
+46,CHN202104010,t5,4-2,2,-23,,,PIT,Phillip Evans,Jason Adam,1%,77%,Hit By Pitch
+47,CHN202104010,t5,4-2,2,123,,O,PIT,Adam Frazier,Jason Adam,-6%,71%,Groundout: 1B-P (2B-1B)
+48,CHN202104010,b5,2-4,0,---,,O,CHC,Eric Sogard,Clay Holmes,3%,74%,Lineout: 1B-P (2B-1B)
+49,CHN202104010,b5,2-4,1,---,,O,CHC,Ian Happ,Clay Holmes,2%,77%,Groundout: 1B-P (2B-1B)
+50,CHN202104010,b5,2-4,2,---,,O,CHC,Willson Contreras,Clay Holmes,1%,78%,Strikeout Swinging
+51,CHN202104010,t6,4-2,0,---,,,PIT,Ke'Bryan Hayes,Jason Adam,3%,81%,Walk
+52,CHN202104010,t6,4-2,0,1--,,O,PIT,Bryan Reynolds,Jason Adam,-1%,80%,Groundout: 3B-1B; Hayes to 2B
+53,CHN202104010,t6,4-2,1,-2-,,,PIT,Colin Moran,Jason Adam,1%,81%,Walk
+54,CHN202104010,t6,4-2,1,12-,,O,PIT,Kevin Newman,Dan Winkler,-3%,77%,Flyball: RF (CF-RF)
+55,CHN202104010,t6,4-2,2,12-,,O,PIT,Gregory Polanco,Dan Winkler,-3%,74%,Groundout: SS-1B (Weak 2B)
+56,CHN202104010,b6,2-4,0,---,,O,CHC,Anthony Rizzo,Sam Howard,4%,78%,Strikeout Looking
+57,CHN202104010,b6,2-4,1,---,,O,CHC,Kris Bryant,Sam Howard,2%,80%,Strikeout Swinging
+58,CHN202104010,b6,2-4,2,---,,O,CHC,Joc Pederson,Sam Howard,2%,82%,Strikeout Swinging; Pederson out at 1B/C-1B
+59,CHN202104010,t7,4-2,0,---,,O,PIT,Jacob Stallings,Dan Winkler,-2%,80%,Strikeout Swinging
+60,CHN202104010,t7,4-2,1,---,,,PIT,Anthony Alford,Dan Winkler,2%,82%,Walk
+61,CHN202104010,t7,4-2,1,1--,,,PIT,Erik Gonzalez,Dan Winkler,1%,83%,Alford Steals 2B
+62,CHN202104010,t7,4-2,1,-2-,,O,PIT,Erik Gonzalez,Dan Winkler,-2%,81%,Groundout: SS-1B (Weak 3B); Alford to 3B
+63,CHN202104010,t7,4-2,2,--3,,R,PIT,Adam Frazier,Dan Winkler,8%,89%,Double to LF (Line Drive to LF-CF); Alford Scores
+64,CHN202104010,t7,5-2,2,-2-,,O,PIT,Ke'Bryan Hayes,Dan Winkler,-2%,87%,Strikeout Swinging
+65,CHN202104010,b7,2-5,0,---,,O,CHC,Javier Baez,David Bednar,3%,90%,Strikeout Swinging
+66,CHN202104010,b7,2-5,1,---,,O,CHC,Jason Heyward,David Bednar,2%,92%,Strikeout Swinging
+67,CHN202104010,b7,2-5,2,---,,O,CHC,Matt Duffy,David Bednar,1%,93%,Flyball: RF (RF Line)
+68,CHN202104010,t8,5-2,0,---,,,PIT,Bryan Reynolds,Andrew Chafin,1%,94%,Walk
+69,CHN202104010,t8,5-2,0,1--,,O,PIT,Colin Moran,Andrew Chafin,-1%,93%,Lineout: CF
+70,CHN202104010,t8,5-2,1,1--,,,PIT,Kevin Newman,Andrew Chafin,1%,94%,Single to RF (Line Drive to Short RF); Reynolds to 2B
+71,CHN202104010,t8,5-2,1,12-,,O,PIT,Gregory Polanco,Andrew Chafin,-1%,93%,Groundout: C-1B; Reynolds to 3B; Newman to 2B
+72,CHN202104010,t8,5-2,2,-23,,,PIT,Jacob Stallings,Ryan Tepera,0%,93%,Walk
+73,CHN202104010,t8,5-2,2,123,,O,PIT,Anthony Alford,Ryan Tepera,-2%,91%,Strikeout Swinging
+74,CHN202104010,b8,2-5,0,---,,,CHC,Eric Sogard,Chris Stratton,-7%,85%,Double to RF (Line Drive to Short RF Line)
+75,CHN202104010,b8,2-5,0,-2-,,O,CHC,Ian Happ,Chris Stratton,4%,89%,Groundout: 1B unassisted (Weak 1B); Sogard to 3B
+76,CHN202104010,b8,2-5,1,--3,,RO,CHC,Willson Contreras,Chris Stratton,2%,91%,Flyball: RF/Sacrifice Fly (Deep RF); Sogard Scores
+77,CHN202104010,b8,3-5,2,---,,O,CHC,Anthony Rizzo,Chris Stratton,2%,92%,Groundout: SS-1B (SS-2B)
+78,CHN202104010,t9,5-3,0,---,,O,PIT,Michael Perez,Alec Mills,-1%,92%,Strikeout Swinging
+79,CHN202104010,t9,5-3,1,---,,O,PIT,Adam Frazier,Alec Mills,-1%,91%,Lineout: SS (Deep SS)
+80,CHN202104010,t9,5-3,2,---,,O,PIT,Ke'Bryan Hayes,Alec Mills,0%,91%,Groundout: SS-1B (SS-3B Hole)
+81,CHN202104010,b9,3-5,0,---,,O,CHC,Kris Bryant,Richard Rodriguez,5%,95%,Flyball: CF
+82,CHN202104010,b9,3-5,1,---,,,CHC,Joc Pederson,Richard Rodriguez,-6%,89%,Walk
+83,CHN202104010,b9,3-5,1,1--,,,CHC,Javier Baez,Richard Rodriguez,-1%,88%,Wild Pitch; Pederson to 2B
+84,CHN202104010,b9,3-5,1,-2-,,O,CHC,Javier Baez,Richard Rodriguez,7%,95%,Strikeout Looking
+85,CHN202104010,b9,3-5,2,-2-,,O,CHC,Jason Heyward,Richard Rodriguez,5%,100%,Strikeout Swinging
+0,PHI202104010,t1,0-0,0,---,,O,ATL,Ronald Acuna Jr.,Aaron Nola,2%,52%,Flyball: CF (Deep LF-CF)
+1,PHI202104010,t1,0-0,1,---,,O,ATL,Ozzie Albies,Aaron Nola,2%,54%,Strikeout Swinging
+2,PHI202104010,t1,0-0,2,---,,O,ATL,Freddie Freeman,Aaron Nola,1%,55%,Groundout: 1B-P
+3,PHI202104010,b1,0-0,0,---,,,PHI,Andrew McCutchen,Max Fried,4%,58%,Single to RF (Line Drive to RF Line)
+4,PHI202104010,b1,0-0,0,1--,,O,PHI,Rhys Hoskins,Max Fried,-3%,55%,Flyball: CF (Deep CF-RF)
+5,PHI202104010,b1,0-0,1,1--,,,PHI,Bryce Harper,Max Fried,3%,59%,Walk; McCutchen to 2B
+6,PHI202104010,b1,0-0,1,12-,,,PHI,J.T. Realmuto,Max Fried,6%,64%,Hit By Pitch; McCutchen to 3B; Harper to 2B
+7,PHI202104010,b1,0-0,1,123,,RO,PHI,Alec Bohm,Max Fried,1%,65%,Flyball: LF/Sacrifice Fly; McCutchen Scores; Harper to 3B; Realmuto to 2B
+8,PHI202104010,b1,1-0,2,-23,,O,PHI,Didi Gregorius,Max Fried,-5%,60%,Strikeout Swinging
+9,PHI202104010,t2,0-1,0,---,,,ATL,Marcell Ozuna,Aaron Nola,-4%,57%,Single to LF (Ground Ball thru SS-3B Hole)
+10,PHI202104010,t2,0-1,0,1--,,O,ATL,Travis d'Arnaud,Aaron Nola,4%,60%,Strikeout Swinging
+11,PHI202104010,t2,0-1,1,1--,,O,ATL,Dansby Swanson,Aaron Nola,3%,63%,Flyball: LF (Deep LF)
+12,PHI202104010,t2,0-1,2,1--,,O,ATL,Austin Riley,Aaron Nola,2%,66%,Groundout: 3B-1B (Weak 3B)
+13,PHI202104010,b2,1-0,0,---,,O,PHI,Jean Segura,Max Fried,-2%,64%,Flyball: CF
+14,PHI202104010,b2,1-0,1,---,,O,PHI,Adam Haseley,Max Fried,-1%,62%,Groundout: SS-1B (Deep SS)
+15,PHI202104010,b2,1-0,2,---,,O,PHI,Aaron Nola,Max Fried,-1%,61%,Strikeout Swinging
+16,PHI202104010,t3,0-1,0,---,,O,ATL,Cristian Pache,Aaron Nola,3%,64%,Foul Popfly: 3B
+17,PHI202104010,t3,0-1,1,---,,O,ATL,Max Fried,Aaron Nola,2%,66%,Strikeout Looking
+18,PHI202104010,t3,0-1,2,---,,,ATL,Ronald Acuna Jr.,Aaron Nola,-3%,63%,Double to LF (Ground Ball)
+19,PHI202104010,t3,0-1,2,-2-,,O,ATL,Ozzie Albies,Aaron Nola,4%,67%,Groundout: 2B-1B (2B-1B)
+20,PHI202104010,b3,1-0,0,---,,O,PHI,Andrew McCutchen,Max Fried,-2%,65%,Strikeout Swinging
+21,PHI202104010,b3,1-0,1,---,,,PHI,Rhys Hoskins,Max Fried,4%,69%,Double to LF (Ground Ball)
+22,PHI202104010,b3,1-0,1,-2-,,,PHI,Bryce Harper,Max Fried,4%,73%,Single to RF (Line Drive to CF-RF); Hoskins to 3B
+23,PHI202104010,b3,1-0,1,1-3,,RO,PHI,J.T. Realmuto,Max Fried,2%,75%,Single to 2B (Ground Ball to 2B-1B); Hoskins Scores; Harper out at 3B/2B-3B
+24,PHI202104010,b3,2-0,2,1--,,,PHI,Alec Bohm,Max Fried,1%,76%,Walk; Realmuto to 2B
+25,PHI202104010,b3,2-0,2,12-,,O,PHI,Didi Gregorius,Max Fried,-3%,73%,Strikeout Swinging
+26,PHI202104010,t4,0-2,0,---,,O,ATL,Freddie Freeman,Aaron Nola,3%,76%,Flyball: CF (Deep CF)
+27,PHI202104010,t4,0-2,1,---,,O,ATL,Marcell Ozuna,Aaron Nola,2%,78%,Strikeout Swinging
+28,PHI202104010,t4,0-2,2,---,,O,ATL,Travis d'Arnaud,Aaron Nola,1%,79%,Flyball: 2B (Short CF-RF)
+29,PHI202104010,b4,2-0,0,---,,,PHI,Jean Segura,Max Fried,2%,81%,Single to RF (Line Drive to Deep 2B-1B)
+30,PHI202104010,b4,2-0,0,1--,,O,PHI,Adam Haseley,Max Fried,-2%,79%,Strikeout Swinging
+31,PHI202104010,b4,2-0,1,1--,,,PHI,Aaron Nola,Max Fried,2%,81%,Fielder's Choice 1B; Segura to 2B/Adv on E3 (throw); Nola to 1B
+32,PHI202104010,b4,2-0,1,12-,,O,PHI,Andrew McCutchen,Max Fried,-2%,79%,Groundout: SS-2B/Forceout at 2B; Segura to 3B; McCutchen to 1B
+33,PHI202104010,b4,2-0,2,1-3,,O,PHI,Rhys Hoskins,Max Fried,-3%,75%,Strikeout Swinging
+34,PHI202104010,t5,0-2,0,---,,O,ATL,Dansby Swanson,Aaron Nola,3%,78%,Flyball: RF (CF-RF)
+35,PHI202104010,t5,0-2,1,---,,,ATL,Austin Riley,Aaron Nola,-3%,75%,Single to LF (Ground Ball thru SS-3B Hole)
+36,PHI202104010,t5,0-2,1,1--,,O,ATL,Cristian Pache,Aaron Nola,4%,79%,Strikeout Swinging
+37,PHI202104010,t5,0-2,2,1--,,O,ATL,Max Fried,Aaron Nola,3%,81%,Groundout: 2B-1B
+38,PHI202104010,b5,2-0,0,---,,O,PHI,Bryce Harper,Max Fried,-1%,80%,Flyball: LF (Deep LF)
+39,PHI202104010,b5,2-0,1,---,,,PHI,J.T. Realmuto,Max Fried,3%,83%,Double to RF (Line Drive to RF Line)
+40,PHI202104010,b5,2-0,1,-2-,,O,PHI,Alec Bohm,Max Fried,-2%,80%,Strikeout Looking
+41,PHI202104010,b5,2-0,2,-2-,,O,PHI,Didi Gregorius,Max Fried,-2%,78%,Strikeout Swinging
+42,PHI202104010,t6,0-2,0,---,,,ATL,Ronald Acuna Jr.,Aaron Nola,-5%,73%,Single to LF (Line Drive)
+43,PHI202104010,t6,0-2,0,1--,,O,ATL,Ozzie Albies,Aaron Nola,5%,78%,Foul Popfly: 3B
+44,PHI202104010,t6,0-2,1,1--,,,ATL,Freddie Freeman,Aaron Nola,-12%,66%,Reached on E3 (throw) (Ground Ball to Weak 1B); Acuna to 3B; Freeman to 2B
+45,PHI202104010,t6,0-2,1,-23,,O,ATL,Marcell Ozuna,Aaron Nola,10%,76%,Lineout: 3B (Deep 3B)
+46,PHI202104010,t6,0-2,2,-23,,O,ATL,Travis d'Arnaud,Aaron Nola,8%,85%,Strikeout Looking
+47,PHI202104010,b6,2-0,0,---,,O,PHI,Jean Segura,Tyler Matzek,-1%,83%,Groundout: SS-1B
+48,PHI202104010,b6,2-0,1,---,,,PHI,Adam Haseley,Tyler Matzek,1%,85%,Single to CF (Line Drive to Deep CF)
+49,PHI202104010,b6,2-0,1,1--,,O,PHI,Aaron Nola,Tyler Matzek,-1%,84%,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Haseley to 2B
+50,PHI202104010,b6,2-0,2,-2-,,,PHI,Andrew McCutchen,Tyler Matzek,0%,84%,Walk
+51,PHI202104010,b6,2-0,2,12-,,O,PHI,Rhys Hoskins,Tyler Matzek,-3%,82%,Strikeout Swinging
+52,PHI202104010,t7,0-2,0,---,,O,ATL,Dansby Swanson,Aaron Nola,3%,85%,Flyball: CF (CF-RF)
+53,PHI202104010,t7,0-2,1,---,,O,ATL,Austin Riley,Aaron Nola,2%,87%,Lineout: CF (Deep CF)
+54,PHI202104010,t7,0-2,2,---,,,ATL,Cristian Pache,Aaron Nola,-3%,85%,Double to LF (Line Drive to LF Line)
+55,PHI202104010,t7,0-2,2,-2-,,RR,ATL,Pablo Sandoval,Aaron Nola,-28%,57%,Home Run (Fly Ball to Deep RF Line); Pache Scores
+56,PHI202104010,t7,2-2,2,---,,,ATL,Ronald Acuna Jr.,Archie Bradley,-2%,55%,Walk
+57,PHI202104010,t7,2-2,2,1--,,O,ATL,Ozzie Albies,Archie Bradley,4%,59%,Flyball: CF (Deep CF)
+58,PHI202104010,b7,2-2,0,---,,O,PHI,Bryce Harper,A.J. Minter,-4%,55%,Groundout: 2B-1B
+59,PHI202104010,b7,2-2,1,---,,O,PHI,J.T. Realmuto,A.J. Minter,-3%,52%,Groundout: SS-1B (SS-2B)
+60,PHI202104010,b7,2-2,2,---,,O,PHI,Alec Bohm,A.J. Minter,-2%,50%,Groundout: SS-1B (Deep SS)
+61,PHI202104010,t8,2-2,0,---,,,ATL,Freddie Freeman,Jose Alvarado,-7%,43%,Walk
+62,PHI202104010,t8,2-2,0,1--,,O,ATL,Marcell Ozuna,Jose Alvarado,7%,50%,Strikeout Swinging
+63,PHI202104010,t8,2-2,1,1--,,,ATL,Travis d'Arnaud,Jose Alvarado,-7%,43%,Single to LF (Ground Ball thru SS-3B Hole); Freeman to 2B
+64,PHI202104010,t8,2-2,1,12-,,O,ATL,Dansby Swanson,Jose Alvarado,9%,52%,Strikeout Swinging
+65,PHI202104010,t8,2-2,2,12-,,,ATL,Austin Riley,Jose Alvarado,-5%,47%,Hit By Pitch; Freeman to 3B; d'Arnaud to 2B
+66,PHI202104010,t8,2-2,2,123,,O,ATL,Cristian Pache,Jose Alvarado,14%,61%,Strikeout Swinging
+67,PHI202104010,b8,2-2,0,---,,,PHI,Didi Gregorius,Chris Martin,6%,67%,Single to CF (Line Drive to CF-RF)
+68,PHI202104010,b8,2-2,0,1--,,O,PHI,Jean Segura,Chris Martin,-6%,61%,Groundout: P-2B/Forceout at 2B (Weak SS-2B); Segura to 1B
+69,PHI202104010,b8,2-2,1,1--,,,PHI,Roman Quinn,Chris Martin,4%,65%,Segura Steals 2B
+70,PHI202104010,b8,2-2,1,-2-,,O,PHI,Roman Quinn,Chris Martin,-7%,58%,Strikeout Swinging
+71,PHI202104010,b8,2-2,2,-2-,,O,PHI,Brad Miller,Chris Martin,-8%,50%,Lineout: 2B (Deep 2B)
+72,PHI202104010,t9,2-2,0,---,,O,ATL,Ehire Adrianza,Hector Neris,6%,56%,Groundout: 2B-1B
+73,PHI202104010,t9,2-2,1,---,,O,ATL,Ronald Acuna Jr.,Hector Neris,5%,60%,Strikeout Looking
+74,PHI202104010,t9,2-2,2,---,,O,ATL,Ozzie Albies,Hector Neris,3%,64%,Flyball: SS (Short LF-CF)
+75,PHI202104010,b9,2-2,0,---,,O,PHI,Andrew McCutchen,Will Smith,-6%,58%,Strikeout Swinging
+76,PHI202104010,b9,2-2,1,---,,O,PHI,Rhys Hoskins,Will Smith,-5%,54%,Strikeout Swinging
+77,PHI202104010,b9,2-2,2,---,,O,PHI,Bryce Harper,Will Smith,-4%,50%,Strikeout Looking
+78,PHI202104010,t10,2-2,0,-2-,,O,ATL,Freddie Freeman,Connor Brogdon,2%,52%,Groundout: 2B-1B (2B-1B); Albies to 3B
+79,PHI202104010,t10,2-2,1,--3,,OO,ATL,Marcell Ozuna,Connor Brogdon,29%,81%,Double Play: Flyball: CF (CF-RF); Albies out at Hm/CF-C
+80,PHI202104010,b10,2-2,0,-2-,,O,PHI,J.T. Realmuto,Nate Jones,2%,83%,Groundout: 2B-1B (SS-2B); Harper to 3B
+81,PHI202104010,b10,2-2,1,--3,,O,PHI,Alec Bohm,Nate Jones,-20%,63%,Groundout: 3B-1B (SS-3B Hole)
+82,PHI202104010,b10,2-2,2,--3,,,PHI,Didi Gregorius,Nate Jones,1%,64%,Intentional Walk
+83,PHI202104010,b10,2-2,2,1-3,,R,PHI,Jean Segura,Nate Jones,36%,100%,Single to LF (Ground Ball); Harper Scores/unER; Gregorius to 2B
+0,CIN202104010,t1,0-0,0,---,,O,STL,Tommy Edman,Luis Castillo,-2%,48%,Groundout: 2B-1B (2B-1B)
+1,CIN202104010,t1,0-0,1,---,,,STL,Paul Goldschmidt,Luis Castillo,4%,52%,Ground-rule Double (Fly Ball to Deep RF Line)
+2,CIN202104010,t1,0-0,1,-2-,,,STL,Nolan Arenado,Luis Castillo,4%,56%,Single to 2B (Ground Ball to SS-2B); Goldschmidt to 3B
+3,CIN202104010,t1,0-0,1,1-3,,R,STL,Paul DeJong,Luis Castillo,9%,64%,Single to RF (Ground Ball thru SS-2B); Goldschmidt Scores; Arenado to 3B
+4,CIN202104010,t1,1-0,1,1-3,,,STL,Tyler O'Neill,Luis Castillo,3%,67%,Hit By Pitch; DeJong to 2B
+5,CIN202104010,t1,1-0,1,123,,RR,STL,Yadier Molina,Luis Castillo,10%,77%,Reached on E6 (Ground Ball to Short LF-CF); Arenado Scores; DeJong Scores/No RBI; O'Neill to 2B; Molina to 1B
+6,CIN202104010,t1,3-0,1,12-,,RRR,STL,Dylan Carlson,Luis Castillo,12%,90%,Home Run (Fly Ball to Deep RF Line); O'Neill Scores/unER; Molina Scores
+7,CIN202104010,t1,6-0,1,---,,O,STL,Justin Williams,Luis Castillo,-1%,89%,Groundout: 2B-1B (2B-1B)
+8,CIN202104010,t1,6-0,2,---,,O,STL,Jack Flaherty,Luis Castillo,0%,89%,Lineout: RF (RF Line)
+9,CIN202104010,b1,0-6,0,---,,,CIN,Jesse Winker,Jack Flaherty,-3%,86%,Double to RF (Line Drive to Deep RF Line)
+10,CIN202104010,b1,0-6,0,-2-,,O,CIN,Nick Castellanos,Jack Flaherty,1%,87%,Flyball: RF (Deep RF Line); Winker to 3B
+11,CIN202104010,b1,0-6,1,--3,,R,CIN,Joey Votto,Jack Flaherty,-1%,86%,Wild Pitch; Winker Scores/No RBI
+12,CIN202104010,b1,1-6,1,---,,O,CIN,Joey Votto,Jack Flaherty,1%,87%,Popfly: 3B (SS-3B Hole)
+13,CIN202104010,b1,1-6,2,---,,O,CIN,Eugenio Suarez,Jack Flaherty,1%,88%,Strikeout Swinging
+14,CIN202104010,t2,6-1,0,---,,O,STL,Tommy Edman,Luis Castillo,-1%,87%,Lineout: LF (Short LF Line)
+15,CIN202104010,t2,6-1,1,---,,,STL,Paul Goldschmidt,Luis Castillo,2%,88%,Single to SS (Ground Ball to SS-3B Hole); Goldschmidt to 2B/Adv on E6 (throw)
+16,CIN202104010,t2,6-1,1,-2-,,R,STL,Nolan Arenado,Luis Castillo,3%,91%,Single to CF (Line Drive to LF-CF); Goldschmidt Scores/unER
+17,CIN202104010,t2,7-1,1,1--,,OO,STL,Paul DeJong,Luis Castillo,-1%,90%,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+18,CIN202104010,b2,1-7,0,---,,O,CIN,Mike Moustakas,Jack Flaherty,1%,91%,Flyball: LF (LF-CF)
+19,CIN202104010,b2,1-7,1,---,,O,CIN,Nick Senzel,Jack Flaherty,1%,92%,Strikeout Swinging
+20,CIN202104010,b2,1-7,2,---,,O,CIN,Jonathan India,Jack Flaherty,1%,93%,Strikeout Looking
+21,CIN202104010,t3,7-1,0,---,,O,STL,Tyler O'Neill,Luis Castillo,-1%,92%,Foul Popfly: RF (1B into Foul Terr.)
+22,CIN202104010,t3,7-1,1,---,,O,STL,Yadier Molina,Luis Castillo,0%,92%,Groundout: SS-1B
+23,CIN202104010,t3,7-1,2,---,,,STL,Dylan Carlson,Luis Castillo,0%,92%,Walk
+24,CIN202104010,t3,7-1,2,1--,,O,STL,Justin Williams,Luis Castillo,-1%,91%,Groundout: 2B-SS/Forceout at 2B; Williams to 1B
+25,CIN202104010,b3,1-7,0,---,,,CIN,Tucker Barnhart,Jack Flaherty,-2%,89%,Hit By Pitch
+26,CIN202104010,b3,1-7,0,1--,,O,CIN,Luis Castillo,Jack Flaherty,1%,91%,Bunt Groundout: C-2B/Sacrifice; Barnhart to 2B
+27,CIN202104010,b3,1-7,1,-2-,,O,CIN,Jesse Winker,Jack Flaherty,2%,93%,Strikeout Looking
+28,CIN202104010,b3,1-7,2,-2-,,RR,CIN,Nick Castellanos,Jack Flaherty,-7%,85%,Home Run (Fly Ball to Deep LF); Barnhart Scores
+29,CIN202104010,b3,3-7,2,---,,O,CIN,Joey Votto,Jack Flaherty,1%,86%,Flyball: RF (Deep CF-RF)
+30,CIN202104010,t4,7-3,0,---,,,STL,Jack Flaherty,Luis Castillo,2%,88%,Walk
+31,CIN202104010,t4,7-3,0,1--,,,STL,Tommy Edman,Luis Castillo,2%,90%,Single to P (Ground Ball); Flaherty to 2B
+32,CIN202104010,t4,7-3,0,12-,,R,STL,Paul Goldschmidt,Luis Castillo,5%,94%,Single to CF (Ground Ball); Flaherty Scores; Edman to 3B
+33,CIN202104010,t4,8-3,0,1-3,,R,STL,Nolan Arenado,Luis Castillo,1%,95%,Wild Pitch; Edman Scores/No RBI; Goldschmidt to 2B
+34,CIN202104010,t4,9-3,0,-2-,,O,STL,Nolan Arenado,Luis Castillo,-1%,94%,Lineout: CF (Deep LF-CF)
+35,CIN202104010,t4,9-3,1,-2-,,O,STL,Paul DeJong,Cam Bedrosian,-1%,94%,Strikeout Swinging
+36,CIN202104010,t4,9-3,2,-2-,,RR,STL,Tyler O'Neill,Cam Bedrosian,4%,97%,Home Run (Fly Ball to Deep LF); Goldschmidt Scores
+37,CIN202104010,t4,11-3,2,---,,O,STL,Yadier Molina,Cam Bedrosian,0%,97%,Groundout: P-1B (P's Left)
+38,CIN202104010,b4,3-11,0,---,,R,CIN,Eugenio Suarez,Jack Flaherty,-2%,96%,Home Run (Fly Ball to Deep RF Line)
+39,CIN202104010,b4,4-11,0,---,,O,CIN,Mike Moustakas,Jack Flaherty,1%,96%,Groundout: 2B-1B
+40,CIN202104010,b4,4-11,1,---,,O,CIN,Tyler Naquin,Jack Flaherty,1%,97%,Groundout: 1B unassisted
+41,CIN202104010,b4,4-11,2,---,,,CIN,Jonathan India,Jack Flaherty,-1%,96%,Double to LF (Line Drive to Short LF Line)
+42,CIN202104010,b4,4-11,2,-2-,,O,CIN,Tucker Barnhart,Jack Flaherty,1%,97%,Flyball: LF (LF Line)
+43,CIN202104010,t5,11-4,0,---,,O,STL,Dylan Carlson,Sal Romano,0%,97%,Strikeout Looking
+44,CIN202104010,t5,11-4,1,---,,O,STL,Justin Williams,Sal Romano,0%,97%,Groundout: 2B-1B (Deep 2B-1B)
+45,CIN202104010,t5,11-4,2,---,,,STL,Jack Flaherty,Sal Romano,0%,97%,Walk
+46,CIN202104010,t5,11-4,2,1--,,O,STL,Tommy Edman,Sal Romano,0%,97%,Groundout: 2B-SS/Forceout at 2B; Edman to 1B
+47,CIN202104010,b5,4-11,0,---,,O,CIN,Tyler Stephenson,Jack Flaherty,1%,97%,Flyball: CF
+48,CIN202104010,b5,4-11,1,---,,,CIN,Jesse Winker,Jack Flaherty,-1%,97%,Walk
+49,CIN202104010,b5,4-11,1,1--,,,CIN,Nick Castellanos,Jack Flaherty,-2%,94%,Double to LF (Line Drive to Short LF Line); Winker to 3B
+50,CIN202104010,b5,4-11,1,-23,,R,CIN,Joey Votto,Jack Flaherty,-2%,92%,Single to CF (Line Drive to LF-CF); Winker Scores; Castellanos to 3B
+51,CIN202104010,b5,5-11,1,1-3,,,CIN,Eugenio Suarez,Jack Flaherty,-3%,89%,Walk; Votto to 2B
+52,CIN202104010,b5,5-11,1,123,,RO,CIN,Mike Moustakas,Tyler Webb,3%,92%,Lineout: CF/Sacrifice Fly; Castellanos Scores
+53,CIN202104010,b5,6-11,2,12-,,O,CIN,Aristides Aquino,Tyler Webb,3%,94%,Foul Popfly: 3B (3B into Foul Terr.)
+54,CIN202104010,t6,11-6,0,---,,O,STL,Paul Goldschmidt,Sal Romano,-1%,94%,Groundout: 2B-1B (SS-2B)
+55,CIN202104010,t6,11-6,1,---,,O,STL,Nolan Arenado,Sal Romano,0%,93%,Strikeout Looking
+56,CIN202104010,t6,11-6,2,---,,O,STL,Paul DeJong,Sal Romano,0%,93%,Lineout: CF (Deep CF)
+57,CIN202104010,b6,6-11,0,---,,,CIN,Jonathan India,Ryan Helsley,-2%,91%,Single to LF (Line Drive to LF-CF)
+58,CIN202104010,b6,6-11,0,1--,,O,CIN,Alex Blandino,Ryan Helsley,2%,93%,Strikeout Looking
+59,CIN202104010,b6,6-11,1,1--,,,CIN,Tyler Stephenson,Ryan Helsley,-3%,91%,Single to RF (Line Drive); India to 2B
+60,CIN202104010,b6,6-11,1,12-,,,CIN,Jesse Winker,Ryan Helsley,-5%,86%,Single to RF (Line Drive to CF-RF); India to 3B; Stephenson to 2B
+61,CIN202104010,b6,6-11,1,123,,OO,CIN,Nick Castellanos,Ryan Helsley,10%,96%,Double Play: Lineout: LF (Deep LF-CF); Stephenson out at 2B/LF-2B
+62,CIN202104010,t7,11-6,0,---,,O,STL,Tyler O'Neill,Carson Fulmer,0%,96%,Groundout: 3B-1B (SS-3B Hole)
+63,CIN202104010,t7,11-6,1,---,,O,STL,Yadier Molina,Carson Fulmer,0%,95%,Foul Popfly: 1B (1B into Foul Terr.)
+64,CIN202104010,t7,11-6,2,---,,O,STL,Dylan Carlson,Carson Fulmer,0%,95%,Strikeout Swinging
+65,CIN202104010,b7,6-11,0,---,,O,CIN,Joey Votto,Genesis Cabrera,1%,97%,Foul Popfly: C (Behind Home)
+66,CIN202104010,b7,6-11,1,---,,,CIN,Eugenio Suarez,Genesis Cabrera,-1%,95%,Walk
+67,CIN202104010,b7,6-11,1,1--,,,CIN,Mike Moustakas,Genesis Cabrera,-2%,93%,Walk; Suarez to 2B
+68,CIN202104010,b7,6-11,1,12-,,O,CIN,Aristides Aquino,Genesis Cabrera,3%,96%,Flyball: RF (Short RF)
+69,CIN202104010,b7,6-11,2,12-,,O,CIN,Jonathan India,Genesis Cabrera,2%,98%,Flyball: RF (RF Line)
+70,CIN202104010,t8,11-6,0,---,,O,STL,Justin Williams,Carson Fulmer,0%,98%,Flyball: CF (Deep CF)
+71,CIN202104010,t8,11-6,1,---,,O,STL,Matt Carpenter,Carson Fulmer,0%,97%,Strikeout Swinging
+72,CIN202104010,t8,11-6,2,---,,O,STL,Tommy Edman,Carson Fulmer,0%,97%,Flyball: CF (Deep CF)
+73,CIN202104010,b8,6-11,0,---,,O,CIN,Kyle Farmer,Giovanny Gallegos,1%,98%,Strikeout Swinging
+74,CIN202104010,b8,6-11,1,---,,O,CIN,Tyler Stephenson,Giovanny Gallegos,1%,99%,Groundout: SS-1B
+75,CIN202104010,b8,6-11,2,---,,O,CIN,Jesse Winker,Giovanny Gallegos,0%,99%,Strikeout Swinging
+76,CIN202104010,t9,11-6,0,---,,,STL,Paul Goldschmidt,Sean Doolittle,0%,99%,Double to LF (Line Drive to Deep LF Line)
+77,CIN202104010,t9,11-6,0,-2-,,O,STL,Nolan Arenado,Sean Doolittle,0%,99%,Strikeout Swinging
+78,CIN202104010,t9,11-6,1,-2-,,O,STL,Paul DeJong,Sean Doolittle,0%,99%,Groundout: 3B-1B (SS-3B Hole)
+79,CIN202104010,t9,11-6,2,-2-,,O,STL,Tyler O'Neill,Sean Doolittle,0%,99%,Strikeout Swinging
+80,CIN202104010,b9,6-11,0,---,,,CIN,Nick Castellanos,Alex Reyes,-1%,98%,Single to CF (Line Drive)
+81,CIN202104010,b9,6-11,0,1--,,O,CIN,Joey Votto,Alex Reyes,1%,99%,Flyball: CF (Deep CF)
+82,CIN202104010,b9,6-11,1,1--,,O,CIN,Eugenio Suarez,Alex Reyes,1%,100%,Popfly: 2B (Deep SS-2B)
+83,CIN202104010,b9,6-11,2,1--,,,CIN,Mike Moustakas,Alex Reyes,0%,100%,Defensive Indifference; Castellanos to 2B
+84,CIN202104010,b9,6-11,2,-2-,,,CIN,Mike Moustakas,Alex Reyes,0%,99%,Walk; Castellanos to 3B
+85,CIN202104010,b9,6-11,2,1-3,,O,CIN,Aristides Aquino,Alex Reyes,1%,100%,Strikeout Swinging
+0,COL202104010,t1,0-0,0,---,,,LAD,Mookie Betts,German Marquez,-3%,47%,Single to LF (Fly Ball to Short LF-CF)
+1,COL202104010,t1,0-0,0,1--,,,LAD,Corey Seager,German Marquez,-5%,41%,Single to LF (Line Drive to Short LF Line); Betts to 2B
+2,COL202104010,t1,0-0,0,12-,,OO,LAD,Justin Turner,German Marquez,10%,52%,Ground Ball Double Play: 3B-1B; Seager to 2B
+3,COL202104010,t1,0-0,2,-2-,,,LAD,Cody Bellinger,German Marquez,-1%,51%,Walk
+4,COL202104010,t1,0-0,2,12-,,O,LAD,Max Muncy,German Marquez,4%,55%,Groundout: 1B unassisted
+5,COL202104010,b1,0-0,0,---,,O,COL,Raimel Tapia,Clayton Kershaw,-2%,53%,Groundout: 2B-1B
+6,COL202104010,b1,0-0,1,---,,O,COL,Joshua Fuentes,Clayton Kershaw,-2%,51%,Groundout: 3B-1B
+7,COL202104010,b1,0-0,2,---,,,COL,Trevor Story,Clayton Kershaw,1%,52%,Single to CF (Line Drive to Deep LF-CF)
+8,COL202104010,b1,0-0,2,1--,,O,COL,Charlie Blackmon,Clayton Kershaw,-2%,50%,Story Caught Stealing (PO) 2B (P-1B-SS)
+9,COL202104010,t2,0-0,0,---,,,LAD,Chris Taylor,German Marquez,-4%,46%,Single to 3B (Ground Ball to SS-3B Hole)
+10,COL202104010,t2,0-0,0,1--,,OO,LAD,Gavin Lux,German Marquez,8%,54%,Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+11,COL202104010,t2,0-0,2,---,,,LAD,Austin Barnes,German Marquez,-1%,53%,Walk
+12,COL202104010,t2,0-0,2,1--,,,LAD,Clayton Kershaw,German Marquez,-2%,51%,Single to CF (Ground Ball thru SS-2B); Barnes to 2B
+13,COL202104010,t2,0-0,2,12-,,O,LAD,Mookie Betts,German Marquez,5%,55%,Lineout: RF (Deep CF-RF)
+14,COL202104010,b2,0-0,0,---,,O,COL,Charlie Blackmon,Clayton Kershaw,-2%,53%,Flyball: LF (Deep LF)
+15,COL202104010,b2,0-0,1,---,,O,COL,C.J. Cron,Clayton Kershaw,-2%,51%,Groundout: SS-1B
+16,COL202104010,b2,0-0,2,---,,O,COL,Elias Diaz,Clayton Kershaw,-1%,50%,Strikeout Swinging
+17,COL202104010,t3,0-0,0,---,,O,LAD,Corey Seager,German Marquez,3%,53%,Groundout: 2B-1B
+18,COL202104010,t3,0-0,1,---,,,LAD,Justin Turner,German Marquez,-3%,50%,Single to RF (Ground Ball)
+19,COL202104010,t3,0-0,1,1--,,RO,LAD,Cody Bellinger,German Marquez,-6%,44%,Single to LF (Fly Ball to Deep LF); Turner Scores; Bellinger out at 2B/3B
+20,COL202104010,t3,1-0,2,---,,,LAD,Max Muncy,German Marquez,-1%,42%,Walk
+21,COL202104010,t3,1-0,2,1--,,,LAD,Chris Taylor,German Marquez,-2%,40%,Walk; Muncy to 2B
+22,COL202104010,t3,1-0,2,12-,,O,LAD,Gavin Lux,German Marquez,4%,45%,Strikeout Looking
+23,COL202104010,b3,0-1,0,---,,,COL,Chris Owings,Clayton Kershaw,10%,55%,Triple to RF (Fly Ball to Weak SS-2B)
+24,COL202104010,b3,0-1,0,--3,,R,COL,Garrett Hampson,Clayton Kershaw,5%,60%,Single to 1B (Bunt to Weak 2B-1B); Owings Scores
+25,COL202104010,b3,1-1,0,1--,,O,COL,German Marquez,Clayton Kershaw,-4%,56%,Bunt Popfly: P (Front of Home)
+26,COL202104010,b3,1-1,1,1--,,O,COL,Raimel Tapia,Clayton Kershaw,-2%,54%,Groundout: P-1B (Front of Home); Hampson to 2B
+27,COL202104010,b3,1-1,2,-2-,,R,COL,Joshua Fuentes,Clayton Kershaw,10%,64%,Single to CF (Ground Ball); Hampson Scores
+28,COL202104010,b3,2-1,2,1--,,O,COL,Trevor Story,Clayton Kershaw,-2%,61%,Groundout: SS-1B
+29,COL202104010,t4,1-2,0,---,,,LAD,Austin Barnes,German Marquez,-4%,57%,Walk
+30,COL202104010,t4,1-2,0,1--,,O,LAD,Clayton Kershaw,German Marquez,3%,60%,Groundout: 3B-1B (Weak SS); Barnes to 2B
+31,COL202104010,t4,1-2,1,-2-,,O,LAD,Mookie Betts,German Marquez,4%,64%,Strikeout Swinging
+32,COL202104010,t4,1-2,2,-2-,,,LAD,Corey Seager,German Marquez,-1%,63%,Walk
+33,COL202104010,t4,1-2,2,12-,,O,LAD,Justin Turner,German Marquez,5%,68%,Groundout: 2B-1B
+34,COL202104010,b4,2-1,0,---,,O,COL,Charlie Blackmon,Clayton Kershaw,-2%,66%,Strikeout Swinging
+35,COL202104010,b4,2-1,1,---,,O,COL,C.J. Cron,Clayton Kershaw,-2%,64%,Groundout: 3B-1B (SS-3B Hole)
+36,COL202104010,b4,2-1,2,---,,O,COL,Elias Diaz,Clayton Kershaw,-1%,63%,Groundout: SS-1B (Deep SS-3B Hole)
+37,COL202104010,t5,1-2,0,---,,,LAD,Cody Bellinger,Chi Chi Gonzalez,-8%,55%,Double to LF (Fly Ball to Short LF Line)
+38,COL202104010,t5,1-2,0,-2-,,,LAD,Max Muncy,Chi Chi Gonzalez,-4%,51%,Wild Pitch; Bellinger to 3B
+39,COL202104010,t5,1-2,0,--3,,O,LAD,Max Muncy,Chi Chi Gonzalez,6%,57%,Strikeout Swinging
+40,COL202104010,t5,1-2,1,--3,,O,LAD,Chris Taylor,Chi Chi Gonzalez,8%,65%,Strikeout Looking
+41,COL202104010,t5,1-2,2,--3,,R,LAD,Gavin Lux,Chi Chi Gonzalez,-11%,54%,Single to RF (Line Drive); Bellinger Scores
+42,COL202104010,t5,2-2,2,1--,,O,LAD,Austin Barnes,Chi Chi Gonzalez,3%,57%,Groundout: SS-2B/Forceout at 2B; Barnes to 1B
+43,COL202104010,b5,2-2,0,---,,,COL,Chris Owings,Clayton Kershaw,4%,61%,Single to LF (Line Drive to Short LF)
+44,COL202104010,b5,2-2,0,1--,,,COL,Garrett Hampson,Clayton Kershaw,7%,68%,Walk; Owings to 2B
+45,COL202104010,b5,2-2,0,12-,,O,COL,Chi Chi Gonzalez,Clayton Kershaw,0%,68%,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Owings to 3B; Hampson to 2B
+46,COL202104010,b5,2-2,1,-23,,RO,COL,Raimel Tapia,Clayton Kershaw,1%,69%,Groundout: 2B-1B (2B-1B); Owings Scores; Hampson to 3B
+47,COL202104010,b5,3-2,2,--3,,R,COL,Joshua Fuentes,Clayton Kershaw,9%,78%,Reached on E6 (Ground Ball to Short LF-CF); Hampson Scores/No RBI/unER; Fuentes to 1B
+48,COL202104010,b5,4-2,2,1--,,,COL,Trevor Story,Clayton Kershaw,2%,80%,Single to LF (Line Drive to Deep LF Line); Fuentes to 3B
+49,COL202104010,b5,4-2,2,1-3,,O,COL,Charlie Blackmon,Clayton Kershaw,-4%,76%,Groundout: 2B-1B (Deep 2B)
+50,COL202104010,t6,2-4,0,---,,,LAD,Clayton Kershaw,Chi Chi Gonzalez,-5%,71%,Single to LF (Ground Ball)
+51,COL202104010,t6,2-4,0,1--,,,LAD,Mookie Betts,Chi Chi Gonzalez,-14%,57%,Double to CF (Line Drive to Deep LF-CF); Kershaw to 3B
+52,COL202104010,t6,2-4,0,-23,,,LAD,Corey Seager,Chi Chi Gonzalez,-4%,53%,Walk
+53,COL202104010,t6,2-4,0,123,,RO,LAD,Justin Turner,Chi Chi Gonzalez,6%,59%,Flyball: CF/Sacrifice Fly (Deep LF-CF); Kershaw Scores
+54,COL202104010,t6,3-4,1,12-,,O,LAD,Cody Bellinger,Chi Chi Gonzalez,7%,66%,Flyball: CF (LF-CF)
+55,COL202104010,t6,3-4,2,12-,,RO,LAD,Max Muncy,Chi Chi Gonzalez,-8%,58%,Single to RF (Line Drive); Betts Scores; Seager out at 3B/RF-3B
+56,COL202104010,b6,4-4,0,---,,,COL,C.J. Cron,Clayton Kershaw,5%,63%,Single to CF (Ground Ball thru SS-2B)
+57,COL202104010,b6,4-4,0,1--,,,COL,Elias Diaz,Clayton Kershaw,7%,70%,Single to CF (Line Drive to Deep CF); Cron to 2B
+58,COL202104010,b6,4-4,0,12-,,R,COL,Chris Owings,Clayton Kershaw,15%,85%,Single to CF (Ground Ball thru SS-2B); Cron Scores; Diaz to 3B
+59,COL202104010,b6,5-4,0,1-3,,,COL,Garrett Hampson,Clayton Kershaw,1%,86%,Owings Steals 2B
+60,COL202104010,b6,5-4,0,-23,,O,COL,Garrett Hampson,Clayton Kershaw,-4%,81%,Groundout: SS-1B
+61,COL202104010,b6,5-4,1,-23,,O,COL,Yonathan Daza,Clayton Kershaw,-9%,72%,Fielder's Choice ; Diaz out at Hm/SS-C; Daza to 1B
+62,COL202104010,b6,5-4,2,12-,,R,COL,Raimel Tapia,Clayton Kershaw,11%,83%,Single to LF (Ground Ball); Owings Scores; Daza to 2B
+63,COL202104010,b6,6-4,2,12-,,O,COL,Joshua Fuentes,Corey Knebel,-3%,80%,Strikeout Swinging
+64,COL202104010,t7,4-6,0,---,,O,LAD,Chris Taylor,Yency Almonte,4%,84%,Groundout: SS-1B (SS-3B Hole)
+65,COL202104010,t7,4-6,1,---,,,LAD,Gavin Lux,Yency Almonte,-4%,80%,Single to SS (Ground Ball to SS-2B)
+66,COL202104010,t7,4-6,1,1--,,OO,LAD,Austin Barnes,Yency Almonte,8%,88%,Ground Ball Double Play: 2B-SS-1B (Front of Home)
+67,COL202104010,b7,6-4,0,---,,O,COL,Trevor Story,Jimmy Nelson,-1%,87%,Foul Popfly: 3B (3B into Foul Terr.)
+68,COL202104010,b7,6-4,1,---,,,COL,Charlie Blackmon,Jimmy Nelson,1%,88%,Walk
+69,COL202104010,b7,6-4,1,1--,,,COL,C.J. Cron,Jimmy Nelson,4%,92%,Double to LF (Fly Ball to Deep LF-CF); Blackmon to 3B
+70,COL202104010,b7,6-4,1,-23,,R,COL,Elias Diaz,Jimmy Nelson,3%,95%,Wild Pitch; Blackmon Scores/No RBI; Cron to 3B
+71,COL202104010,b7,7-4,1,--3,,O,COL,Elias Diaz,Jimmy Nelson,-2%,93%,Strikeout Swinging
+72,COL202104010,b7,7-4,2,--3,,R,COL,Chris Owings,Jimmy Nelson,3%,96%,Wild Pitch; Cron Scores/No RBI
+73,COL202104010,b7,8-4,2,---,,,COL,Chris Owings,Jimmy Nelson,0%,96%,Walk
+74,COL202104010,b7,8-4,2,1--,,,COL,Garrett Hampson,Scott Alexander,0%,96%,Owings Steals 2B
+75,COL202104010,b7,8-4,2,-2-,,,COL,Garrett Hampson,Scott Alexander,0%,96%,Wild Pitch; Owings to 3B
+76,COL202104010,b7,8-4,2,--3,,O,COL,Garrett Hampson,Scott Alexander,-1%,96%,Groundout: 3B-1B (SS-3B Hole)
+77,COL202104010,t8,4-8,0,---,,,LAD,Zach McKinstry,Tyler Kinley,-3%,93%,Double to RF (Line Drive to RF Line)
+78,COL202104010,t8,4-8,0,-2-,,O,LAD,Mookie Betts,Tyler Kinley,2%,95%,Groundout: SS-1B; McKinstry to 3B
+79,COL202104010,t8,4-8,1,--3,,R,LAD,Corey Seager,Tyler Kinley,-3%,92%,Single to LF (Line Drive to Deep LF-CF); McKinstry Scores
+80,COL202104010,t8,5-8,1,1--,,O,LAD,Justin Turner,Tyler Kinley,3%,95%,Popfly: 2B
+81,COL202104010,t8,5-8,2,1--,,O,LAD,Cody Bellinger,Tyler Kinley,2%,97%,Flyball: RF (Deep RF)
+82,COL202104010,b8,8-5,0,---,,O,COL,Ryan McMahon,Scott Alexander,0%,97%,Flyball: CF (Deep LF-CF)
+83,COL202104010,b8,8-5,1,---,,,COL,Raimel Tapia,Scott Alexander,0%,97%,Reached on E5 (throw) (Ground Ball to SS-3B Hole); Tapia to 1B
+84,COL202104010,b8,8-5,1,1--,,O,COL,Joshua Fuentes,Scott Alexander,0%,96%,Flyball: RF
+85,COL202104010,b8,8-5,2,1--,,O,COL,Trevor Story,Scott Alexander,0%,96%,Popfly: 2B (Deep 1B)
+86,COL202104010,t9,5-8,0,---,,,LAD,Max Muncy,Daniel Bard,-5%,91%,Triple to RF (Line Drive to Deep RF Line)
+87,COL202104010,t9,5-8,0,--3,,,LAD,Chris Taylor,Daniel Bard,-9%,82%,Walk
+88,COL202104010,t9,5-8,0,1-3,,O,LAD,Edwin Rios,Daniel Bard,8%,90%,Strikeout Looking
+89,COL202104010,t9,5-8,1,1-3,,,LAD,Will Smith,Daniel Bard,-8%,82%,Hit By Pitch; Taylor to 2B
+90,COL202104010,t9,5-8,1,123,,O,LAD,Matt Beaty,Daniel Bard,9%,92%,Strikeout Looking
+91,COL202104010,t9,5-8,2,123,,O,LAD,Mookie Betts,Daniel Bard,8%,100%,Lineout: 2B
+0,KCA202104010,t1,0-0,0,---,,,TEX,Isiah Kiner-Falefa,Brad Keller,-6%,44%,Double to LF (Ground Ball thru Weak 3B)
+1,KCA202104010,t1,0-0,0,-2-,,,TEX,David Dahl,Brad Keller,-7%,37%,Double to RF (Fly Ball to Deep RF); Kiner-Falefa to 3B
+2,KCA202104010,t1,0-0,0,-23,,,TEX,Joey Gallo,Brad Keller,-2%,34%,Walk
+3,KCA202104010,t1,0-0,0,123,,R,TEX,Nick Solak,Brad Keller,-8%,27%,Single to P (Ground Ball to Short 3B Line); Kiner-Falefa Scores; Dahl to 3B; Gallo to 2B
+4,KCA202104010,t1,1-0,0,123,,RRR,TEX,Nathaniel Lowe,Brad Keller,-12%,15%,Double to LF (Fly Ball to LF Line); Dahl Scores; Gallo Scores; Solak Scores
+5,KCA202104010,t1,4-0,0,-2-,,,TEX,Brock Holt,Brad Keller,-3%,12%,Single to 2B (Ground Ball to 2B-1B); Lowe to 3B
+6,KCA202104010,t1,4-0,0,1-3,,R,TEX,Eli White,Brad Keller,-2%,10%,Single to CF (Line Drive to Deep CF-RF); Lowe Scores; Holt to 2B
+7,KCA202104010,t1,5-0,0,12-,,O,TEX,Leody Taveras,Brad Keller,2%,12%,Foul Popfly: LF (LF into Foul Terr.)
+8,KCA202104010,t1,5-0,1,12-,,O,TEX,Jose Trevino,Brad Keller,2%,13%,Single to CF (Line Drive); Holt out at Hm/CF-C; White to 2B
+9,KCA202104010,t1,5-0,2,12-,,O,TEX,Isiah Kiner-Falefa,Brad Keller,2%,15%,Groundout: SS-2B/Forceout at 2B; Kiner-Falefa to 1B
+10,KCA202104010,b1,0-5,0,---,,,KCR,Whit Merrifield,Kyle Gibson,3%,18%,Single to CF (Ground Ball thru Weak SS-2B)
+11,KCA202104010,b1,0-5,0,1--,,,KCR,Andrew Benintendi,Kyle Gibson,4%,22%,Single to CF (Ground Ball); Merrifield to 2B
+12,KCA202104010,b1,0-5,0,12-,,,KCR,Carlos Santana,Kyle Gibson,6%,28%,Walk; Merrifield to 3B; Benintendi to 2B
+13,KCA202104010,b1,0-5,0,123,,R,KCR,Salvador Perez,Kyle Gibson,8%,36%,Walk; Merrifield Scores; Benintendi to 3B; Santana to 2B
+14,KCA202104010,b1,1-5,0,123,,R,KCR,Jorge Soler,Kyle Gibson,5%,41%,Passed Ball; Benintendi Scores/No RBI; Santana to 3B; Perez to 2B
+15,KCA202104010,b1,2-5,0,-23,,,KCR,Jorge Soler,Kyle Gibson,3%,44%,Walk
+16,KCA202104010,b1,2-5,0,123,,O,KCR,Hunter Dozier,Kyle Gibson,-7%,37%,Strikeout Looking
+17,KCA202104010,b1,2-5,1,123,,R,KCR,Kyle Isbel,Kyle Gibson,9%,46%,Single to RF (Line Drive to Deep CF-RF); Santana Scores; Perez to 3B; Soler to 2B
+18,KCA202104010,b1,3-5,1,123,,R,KCR,Michael A. Taylor,Kyle Gibson,9%,55%,Single to CF (Line Drive); Perez Scores; Soler to 3B; Isbel to 2B
+19,KCA202104010,b1,4-5,1,123,,RO,KCR,Nicky Lopez,Taylor Hearn,0%,55%,Flyball: CF/Sacrifice Fly (Deep CF); Soler Scores; Isbel to 3B
+20,KCA202104010,b1,5-5,2,1-3,,O,KCR,Whit Merrifield,Taylor Hearn,-5%,50%,Flyball: SS (Deep SS)
+21,KCA202104010,t2,5-5,0,---,,,TEX,David Dahl,Brad Keller,-4%,46%,Single to 2B (Ground Ball)
+22,KCA202104010,t2,5-5,0,1--,,,TEX,Joey Gallo,Brad Keller,-6%,41%,Walk; Dahl to 2B
+23,KCA202104010,t2,5-5,0,12-,,O,TEX,Nick Solak,Brad Keller,1%,41%,Groundout: SS-1B; Dahl to 3B; Gallo to 2B
+24,KCA202104010,t2,5-5,1,-23,,R,TEX,Nathaniel Lowe,Brad Keller,-7%,34%,Single to LF (Line Drive); Dahl Scores; Gallo to 3B
+25,KCA202104010,t2,6-5,1,1-3,,,TEX,Brock Holt,Kyle Zimmer,-3%,31%,Walk; Lowe to 2B
+26,KCA202104010,t2,6-5,1,123,,O,TEX,Eli White,Kyle Zimmer,7%,38%,Strikeout Swinging
+27,KCA202104010,t2,6-5,2,123,,O,TEX,Leody Taveras,Kyle Zimmer,7%,45%,Strikeout Swinging
+28,KCA202104010,b2,5-6,0,---,,O,KCR,Andrew Benintendi,Taylor Hearn,-3%,42%,Lineout: LF
+29,KCA202104010,b2,5-6,1,---,,,KCR,Carlos Santana,Taylor Hearn,3%,45%,Walk
+30,KCA202104010,b2,5-6,1,1--,,O,KCR,Salvador Perez,Taylor Hearn,-3%,42%,Groundout: SS-2B/Forceout at 2B (SS-3B Hole); Perez to 1B
+31,KCA202104010,b2,5-6,2,1--,,,KCR,Jorge Soler,Taylor Hearn,2%,44%,Reached on Interference on C; Perez to 2B; Soler to 1B
+32,KCA202104010,b2,5-6,2,12-,,O,KCR,Hunter Dozier,Taylor Hearn,-5%,39%,Groundout: SS-2B/Forceout at 2B; Dozier to 1B
+33,KCA202104010,t3,6-5,0,---,,,TEX,Jose Trevino,Carlos Hernandez,-3%,36%,Single to CF (Line Drive to Deep CF)
+34,KCA202104010,t3,6-5,0,1--,,,TEX,Isiah Kiner-Falefa,Carlos Hernandez,-5%,31%,Walk; Trevino to 2B
+35,KCA202104010,t3,6-5,0,12-,,,TEX,David Dahl,Carlos Hernandez,-6%,24%,Single to RF (Ground Ball thru 2B-1B); Trevino to 3B; Kiner-Falefa to 2B
+36,KCA202104010,t3,6-5,0,123,,RR,TEX,Joey Gallo,Carlos Hernandez,-10%,14%,Single to CF (Ground Ball); Trevino Scores; Kiner-Falefa Scores; Dahl to 3B
+37,KCA202104010,t3,8-5,0,1-3,,O,TEX,Nick Solak,Carlos Hernandez,3%,17%,Strikeout Swinging
+38,KCA202104010,t3,8-5,1,1-3,,OO,TEX,Nathaniel Lowe,Carlos Hernandez,7%,25%,Double Play: Flyball: CF (LF-CF); Dahl out at Hm/CF-C
+39,KCA202104010,b3,5-8,0,---,,O,KCR,Kyle Isbel,Taylor Hearn,-2%,22%,Strikeout Looking
+40,KCA202104010,b3,5-8,1,---,,R,KCR,Michael A. Taylor,Taylor Hearn,9%,31%,Home Run (Fly Ball to Deep CF-RF)
+41,KCA202104010,b3,6-8,1,---,,,KCR,Nicky Lopez,Taylor Hearn,3%,34%,Single to 3B (Ground Ball to SS-3B Hole)
+42,KCA202104010,b3,6-8,1,1--,,,KCR,Whit Merrifield,Taylor Hearn,4%,38%,Single to LF (Ground Ball thru SS-3B Hole); Lopez to 2B
+43,KCA202104010,b3,6-8,1,12-,,O,KCR,Andrew Benintendi,Taylor Hearn,-5%,33%,Strikeout Swinging
+44,KCA202104010,b3,6-8,2,12-,,R,KCR,Carlos Santana,Taylor Hearn,11%,43%,Single to LF (Ground Ball thru SS-3B Hole); Lopez Scores; Merrifield to 2B
+45,KCA202104010,b3,7-8,2,12-,,O,KCR,Salvador Perez,Kyle Cody,-5%,38%,Strikeout Swinging
+46,KCA202104010,t4,8-7,0,---,,O,TEX,Brock Holt,Carlos Hernandez,2%,41%,Flyball: CF (Short LF-CF)
+47,KCA202104010,t4,8-7,1,---,,O,TEX,Eli White,Carlos Hernandez,2%,42%,Strikeout Swinging
+48,KCA202104010,t4,8-7,2,---,,O,TEX,Leody Taveras,Carlos Hernandez,1%,44%,Strikeout Looking
+49,KCA202104010,b4,7-8,0,---,,R,KCR,Jorge Soler,Kyle Cody,13%,56%,Home Run (Fly Ball to Deep CF)
+50,KCA202104010,b4,8-8,0,---,,,KCR,Hunter Dozier,Kyle Cody,4%,60%,Walk
+51,KCA202104010,b4,8-8,0,1--,,,KCR,Kyle Isbel,Kyle Cody,6%,67%,Single to LF (Line Drive to Short LF); Dozier to 2B
+52,KCA202104010,b4,8-8,0,12-,,R,KCR,Michael A. Taylor,Kyle Cody,10%,76%,Single to CF (Line Drive); Dozier Scores; Isbel to 2B
+53,KCA202104010,b4,9-8,0,12-,,,KCR,Nicky Lopez,Kyle Cody,6%,82%,Single to P (Bunt); Isbel to 3B; Taylor to 2B
+54,KCA202104010,b4,9-8,0,123,,RO,KCR,Whit Merrifield,Kyle Cody,2%,84%,Flyball: RF/Sacrifice Fly (RF Line); Isbel Scores; Taylor to 3B; Lopez to 2B
+55,KCA202104010,b4,10-8,1,-23,,O,KCR,Andrew Benintendi,Kyle Cody,-5%,79%,Strikeout Looking
+56,KCA202104010,b4,10-8,2,-23,,O,KCR,Carlos Santana,Josh Sborz,-4%,74%,Flyball: RF (Deep RF)
+57,KCA202104010,t5,8-10,0,---,,O,TEX,Jose Trevino,Carlos Hernandez,3%,77%,Strikeout Swinging
+58,KCA202104010,t5,8-10,1,---,,O,TEX,Isiah Kiner-Falefa,Carlos Hernandez,2%,79%,Flyball: RF (RF Line)
+59,KCA202104010,t5,8-10,2,---,,O,TEX,David Dahl,Carlos Hernandez,1%,81%,Strikeout Swinging
+60,KCA202104010,b5,10-8,0,---,,O,KCR,Salvador Perez,Josh Sborz,-2%,79%,Groundout: SS-1B (SS-3B Hole)
+61,KCA202104010,b5,10-8,1,---,,,KCR,Jorge Soler,Josh Sborz,2%,81%,Walk
+62,KCA202104010,b5,10-8,1,1--,,O,KCR,Hunter Dozier,Josh Sborz,-2%,79%,Strikeout Looking
+63,KCA202104010,b5,10-8,2,1--,,O,KCR,Kyle Isbel,Josh Sborz,-2%,77%,Strikeout Swinging
+64,KCA202104010,t6,8-10,0,---,,O,TEX,Joey Gallo,Jesse Hahn,3%,80%,Foul Popfly: 3B (3B into Foul Terr.)
+65,KCA202104010,t6,8-10,1,---,,,TEX,Nick Solak,Jesse Hahn,-4%,77%,Hit By Pitch
+66,KCA202104010,t6,8-10,1,1--,,O,TEX,Nathaniel Lowe,Jesse Hahn,4%,81%,Strikeout Swinging
+67,KCA202104010,t6,8-10,2,1--,,,TEX,Brock Holt,Jesse Hahn,-1%,80%,Wild Pitch; Solak to 2B
+68,KCA202104010,t6,8-10,2,-2-,,,TEX,Brock Holt,Jesse Hahn,-2%,78%,Walk
+69,KCA202104010,t6,8-10,2,12-,,R,TEX,Eli White,Jesse Hahn,-13%,65%,Single to 2B (Ground Ball to SS-2B); Solak Scores; Holt to 3B
+70,KCA202104010,t6,9-10,2,1-3,,O,TEX,Leody Taveras,Jesse Hahn,8%,74%,Strikeout Looking
+71,KCA202104010,b6,10-9,0,---,,O,KCR,Michael A. Taylor,John King,-2%,71%,Groundout: SS-1B
+72,KCA202104010,b6,10-9,1,---,,O,KCR,Nicky Lopez,John King,-2%,70%,Groundout: 3B-1B (Short 3B Line)
+73,KCA202104010,b6,10-9,2,---,,O,KCR,Whit Merrifield,John King,-1%,68%,Groundout: 2B-1B (Deep 2B)
+74,KCA202104010,t7,9-10,0,---,,O,TEX,Jose Trevino,Scott Barlow,5%,73%,Strikeout Looking
+75,KCA202104010,t7,9-10,1,---,,O,TEX,Isiah Kiner-Falefa,Scott Barlow,3%,76%,Flyball: CF (CF-RF)
+76,KCA202104010,t7,9-10,2,---,,O,TEX,David Dahl,Scott Barlow,2%,78%,Strikeout Swinging
+77,KCA202104010,b7,10-9,0,---,,,KCR,Andrew Benintendi,Brett de Geus,3%,81%,Walk
+78,KCA202104010,b7,10-9,0,1--,,,KCR,Carlos Santana,Brett de Geus,4%,85%,Walk; Benintendi to 2B
+79,KCA202104010,b7,10-9,0,12-,,,KCR,Salvador Perez,Brett de Geus,5%,90%,Hit By Pitch; Benintendi to 3B; Santana to 2B
+80,KCA202104010,b7,10-9,0,123,,R,KCR,Jorge Soler,Brett de Geus,4%,95%,Hit By Pitch; Benintendi Scores; Santana to 3B; Perez to 2B
+81,KCA202104010,b7,11-9,0,123,,RO,KCR,Hunter Dozier,Brett de Geus,1%,96%,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Santana Scores; Perez to 3B; Dozier to 1B
+82,KCA202104010,b7,12-9,1,1-3,,R,KCR,Kyle Isbel,Brett de Geus,2%,97%,Single to SS (Ground Ball); Perez Scores; Dozier to 2B
+83,KCA202104010,b7,13-9,1,12-,,O,KCR,Michael A. Taylor,Brett de Geus,0%,97%,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Dozier to 3B; Taylor to 1B
+84,KCA202104010,b7,13-9,2,1-3,,O,KCR,Nicky Lopez,Brett de Geus,-1%,96%,Groundout: 2B-1B (2B-1B)
+85,KCA202104010,t8,9-13,0,---,,,TEX,Joey Gallo,Scott Barlow,-3%,94%,Single to RF (Ground Ball)
+86,KCA202104010,t8,9-13,0,1--,,O,TEX,Nick Solak,Scott Barlow,2%,96%,Strikeout Swinging
+87,KCA202104010,t8,9-13,1,1--,,O,TEX,Nathaniel Lowe,Scott Barlow,2%,98%,Strikeout Swinging
+88,KCA202104010,t8,9-13,2,1--,,,TEX,Brock Holt,Scott Barlow,-1%,96%,Walk; Gallo to 2B
+89,KCA202104010,t8,9-13,2,12-,,,TEX,Eli White,Scott Barlow,-3%,94%,Walk; Gallo to 3B; Holt to 2B
+90,KCA202104010,t8,9-13,2,123,,O,TEX,Leody Taveras,Greg Holland,5%,99%,Strikeout Swinging
+91,KCA202104010,b8,13-9,0,---,,R,KCR,Whit Merrifield,Kolby Allard,1%,99%,Home Run (Fly Ball to Deep LF)
+92,KCA202104010,b8,14-9,0,---,,O,KCR,Andrew Benintendi,Kolby Allard,0%,99%,Groundout: 1B unassisted
+93,KCA202104010,b8,14-9,1,---,,,KCR,Carlos Santana,Kolby Allard,0%,99%,Reached on E6 (throw) (Ground Ball); Santana to 1B
+94,KCA202104010,b8,14-9,1,1--,,O,KCR,Salvador Perez,Kolby Allard,0%,99%,Strikeout Swinging
+95,KCA202104010,b8,14-9,2,1--,,,KCR,Jorge Soler,Kolby Allard,0%,99%,Single to CF (Line Drive); Santana to 3B; Soler to 2B/Adv on E8 (throw)
+96,KCA202104010,b8,14-9,2,-23,,O,KCR,Hanser Alberto,Kolby Allard,0%,99%,Groundout: 3B-1B (SS-3B Hole)
+97,KCA202104010,t9,9-14,0,---,,,TEX,Jose Trevino,Greg Holland,-1%,98%,Single to P (Ground Ball to 2B-1B)
+98,KCA202104010,t9,9-14,0,1--,,O,TEX,Isiah Kiner-Falefa,Greg Holland,1%,99%,Groundout: P-2B/Forceout at 2B (Weak SS-2B); Kiner-Falefa to 1B
+99,KCA202104010,t9,9-14,1,1--,,,TEX,David Dahl,Greg Holland,-1%,99%,Walk; Kiner-Falefa to 2B
+100,KCA202104010,t9,9-14,1,12-,,,TEX,Joey Gallo,Greg Holland,-1%,98%,Passed Ball; Kiner-Falefa to 3B; Dahl to 2B
+101,KCA202104010,t9,9-14,1,-23,,R,TEX,Joey Gallo,Greg Holland,0%,98%,Wild Pitch; Kiner-Falefa Scores/No RBI/unER; Dahl to 3B
+102,KCA202104010,t9,10-14,1,--3,,,TEX,Joey Gallo,Greg Holland,-2%,96%,Walk
+103,KCA202104010,t9,10-14,1,1-3,,O,TEX,Nick Solak,Wade Davis,3%,99%,Strikeout Looking
+104,KCA202104010,t9,10-14,2,1-3,,,TEX,Nathaniel Lowe,Wade Davis,0%,98%,Gallo Steals 2B
+105,KCA202104010,t9,10-14,2,-23,,O,TEX,Nathaniel Lowe,Wade Davis,2%,100%,Strikeout Swinging
+0,MIA202104010,t1,0-0,0,---,,O,TBR,Yoshi Tsutsugo,Sandy Alcantara,-2%,48%,Flyball: CF
+1,MIA202104010,t1,0-0,1,---,,O,TBR,Austin Meadows,Sandy Alcantara,-2%,46%,Flyball: LF (LF Line)
+2,MIA202104010,t1,0-0,2,---,,,TBR,Randy Arozarena,Sandy Alcantara,1%,47%,Single to RF (Ground Ball thru 2B-1B)
+3,MIA202104010,t1,0-0,2,1--,,,TBR,Brandon Lowe,Sandy Alcantara,2%,49%,Walk; Arozarena to 2B
+4,MIA202104010,t1,0-0,2,12-,,,TBR,Yandy Díaz,Sandy Alcantara,3%,52%,Hit By Pitch; Arozarena to 3B; Lowe to 2B
+5,MIA202104010,t1,0-0,2,123,,O,TBR,Kevin Kiermaier,Sandy Alcantara,-7%,45%,Strikeout Swinging
+6,MIA202104010,b1,0-0,0,---,,O,MIA,Corey Dickerson,Tyler Glasnow,2%,47%,Groundout: 1B unassisted
+7,MIA202104010,b1,0-0,1,---,,O,MIA,Starling Marte,Tyler Glasnow,2%,49%,Strikeout Swinging
+8,MIA202104010,b1,0-0,2,---,,,MIA,Jesus Aguilar,Tyler Glasnow,-1%,48%,Single to 3B (Ground Ball)
+9,MIA202104010,b1,0-0,2,1--,,O,MIA,Adam Duvall,Tyler Glasnow,2%,50%,Flyball: CF (Short CF-RF)
+10,MIA202104010,t2,0-0,0,---,,O,TBR,Willy Adames,Sandy Alcantara,-2%,48%,Popfly: SS (Deep SS)
+11,MIA202104010,t2,0-0,1,---,,O,TBR,Mike Zunino,Sandy Alcantara,-2%,46%,Foul Popfly: C (Behind Home)
+12,MIA202104010,t2,0-0,2,---,,O,TBR,Tyler Glasnow,Sandy Alcantara,-1%,45%,Strikeout Looking
+13,MIA202104010,b2,0-0,0,---,,O,MIA,Brian Anderson,Tyler Glasnow,2%,47%,Groundout: SS-1B
+14,MIA202104010,b2,0-0,1,---,,O,MIA,Jazz Chisholm,Tyler Glasnow,2%,49%,Groundout: SS-1B (SS-2B)
+15,MIA202104010,b2,0-0,2,---,,O,MIA,Jorge Alfaro,Tyler Glasnow,1%,50%,Strikeout Swinging; Alfaro out at 1B/C-1B
+16,MIA202104010,t3,0-0,0,---,,O,TBR,Yoshi Tsutsugo,Sandy Alcantara,-3%,47%,Strikeout Swinging
+17,MIA202104010,t3,0-0,1,---,,O,TBR,Austin Meadows,Sandy Alcantara,-2%,46%,Flyball: LF
+18,MIA202104010,t3,0-0,2,---,,O,TBR,Randy Arozarena,Sandy Alcantara,-1%,45%,Groundout: 2B-1B (Deep SS-2B)
+19,MIA202104010,b3,0-0,0,---,,O,MIA,Miguel Rojas,Tyler Glasnow,3%,47%,Flyball: LF (Short LF)
+20,MIA202104010,b3,0-0,1,---,,O,MIA,Sandy Alcantara,Tyler Glasnow,2%,49%,Strikeout Swinging
+21,MIA202104010,b3,0-0,2,---,,O,MIA,Corey Dickerson,Tyler Glasnow,1%,50%,Groundout: 1B unassisted (Weak 1B)
+22,MIA202104010,t4,0-0,0,---,,,TBR,Brandon Lowe,Sandy Alcantara,7%,57%,Double to RF (Line Drive to RF Line)
+23,MIA202104010,t4,0-0,0,-2-,,O,TBR,Yandy Díaz,Sandy Alcantara,-5%,52%,Lineout: CF (Deep CF)
+24,MIA202104010,t4,0-0,1,-2-,,O,TBR,Kevin Kiermaier,Sandy Alcantara,-4%,48%,Strikeout Swinging
+25,MIA202104010,t4,0-0,2,-2-,,O,TBR,Willy Adames,Sandy Alcantara,-4%,44%,Strikeout Swinging
+26,MIA202104010,b4,0-0,0,---,,O,MIA,Starling Marte,Tyler Glasnow,3%,47%,Strikeout Swinging
+27,MIA202104010,b4,0-0,1,---,,O,MIA,Jesus Aguilar,Tyler Glasnow,2%,49%,Groundout: 2B-1B
+28,MIA202104010,b4,0-0,2,---,,O,MIA,Adam Duvall,Tyler Glasnow,1%,50%,Foul Popfly: 1B (1B-C into Foul Terr.)
+29,MIA202104010,t5,0-0,0,---,,O,TBR,Mike Zunino,Sandy Alcantara,-3%,47%,Groundout: 3B-1B (Short 3B Line)
+30,MIA202104010,t5,0-0,1,---,,O,TBR,Tyler Glasnow,Sandy Alcantara,-2%,45%,Strikeout Looking
+31,MIA202104010,t5,0-0,2,---,,,TBR,Yoshi Tsutsugo,Sandy Alcantara,2%,46%,Walk
+32,MIA202104010,t5,0-0,2,1--,,O,TBR,Austin Meadows,Sandy Alcantara,-3%,43%,Strikeout Swinging
+33,MIA202104010,b5,0-0,0,---,,O,MIA,Brian Anderson,Tyler Glasnow,3%,46%,Flyball: RF (CF-RF)
+34,MIA202104010,b5,0-0,1,---,,O,MIA,Jazz Chisholm,Tyler Glasnow,2%,49%,Lineout: LF (Deep LF-CF)
+35,MIA202104010,b5,0-0,2,---,,O,MIA,Jorge Alfaro,Tyler Glasnow,1%,50%,Groundout: 2B-1B
+36,MIA202104010,t6,0-0,0,---,,O,TBR,Randy Arozarena,Sandy Alcantara,-3%,47%,Groundout: SS-1B (Deep SS)
+37,MIA202104010,t6,0-0,1,---,,O,TBR,Brandon Lowe,Sandy Alcantara,-2%,44%,Groundout: 1B unassisted (Weak 1B)
+38,MIA202104010,t6,0-0,2,---,,O,TBR,Yandy Díaz,Sandy Alcantara,-2%,42%,Groundout: SS-1B
+39,MIA202104010,b6,0-0,0,---,,O,MIA,Miguel Rojas,Tyler Glasnow,3%,46%,Strikeout Looking
+40,MIA202104010,b6,0-0,1,---,,O,MIA,Magneuris Sierra,Tyler Glasnow,2%,48%,Strikeout Looking
+41,MIA202104010,b6,0-0,2,---,,O,MIA,Corey Dickerson,Tyler Glasnow,2%,50%,Groundout: 2B-1B (Weak 2B)
+42,MIA202104010,t7,0-0,0,---,,O,TBR,Kevin Kiermaier,Dylan Floro,-4%,46%,Groundout: P-1B (Short 1B Line)
+43,MIA202104010,t7,0-0,1,---,,O,TBR,Willy Adames,Dylan Floro,-3%,43%,Strikeout Looking
+44,MIA202104010,t7,0-0,2,---,,O,TBR,Mike Zunino,Dylan Floro,-2%,41%,Strikeout Looking
+45,MIA202104010,b7,0-0,0,---,,O,MIA,Starling Marte,Ryan Thompson,4%,45%,Strikeout Swinging
+46,MIA202104010,b7,0-0,1,---,,,MIA,Jesus Aguilar,Ryan Thompson,-4%,41%,Single to RF (Ground Ball)
+47,MIA202104010,b7,0-0,1,1--,,O,MIA,Adam Duvall,Ryan Thompson,5%,46%,Flyball: SS (Deep 3B)
+48,MIA202104010,b7,0-0,2,1--,,O,MIA,Brian Anderson,Ryan Thompson,4%,50%,Groundout: 2B-SS/Forceout at 2B (Weak SS-2B); Anderson to 1B
+49,MIA202104010,t8,0-0,0,---,,O,TBR,Manuel Margot,Yimi Garcia,-5%,45%,Flyball: RF (Deep CF-RF)
+50,MIA202104010,t8,0-0,1,---,,O,TBR,Yoshi Tsutsugo,Yimi Garcia,-3%,42%,Flyball: CF (Deep CF)
+51,MIA202104010,t8,0-0,2,---,,R,TBR,Austin Meadows,Yimi Garcia,29%,71%,Home Run (Fly Ball to Deep CF-RF)
+52,MIA202104010,t8,1-0,2,---,,O,TBR,Randy Arozarena,Yimi Garcia,-1%,70%,Strikeout Swinging
+53,MIA202104010,b8,0-1,0,---,,O,MIA,Jazz Chisholm,Pete Fairbanks,6%,76%,Flyball: CF (Deep LF-CF)
+54,MIA202104010,b8,0-1,1,---,,,MIA,Jorge Alfaro,Pete Fairbanks,-7%,69%,Single to P (Ground Ball to SS-2B)
+55,MIA202104010,b8,0-1,1,1--,,O,MIA,Miguel Rojas,Pete Fairbanks,8%,77%,Lineout: LF (Deep LF)
+56,MIA202104010,b8,0-1,2,1--,,,MIA,Garrett Cooper,Pete Fairbanks,-3%,74%,Alfaro Steals 2B
+57,MIA202104010,b8,0-1,2,-2-,,,MIA,Garrett Cooper,Pete Fairbanks,-2%,72%,Walk
+58,MIA202104010,b8,0-1,2,12-,,O,MIA,Corey Dickerson,Pete Fairbanks,12%,84%,Flyball: CF
+59,MIA202104010,t9,1-0,0,---,,O,TBR,Brandon Lowe,Ross Detwiler,-2%,82%,Strikeout Swinging
+60,MIA202104010,t9,1-0,1,---,,O,TBR,Yandy Díaz,Ross Detwiler,-1%,81%,Strikeout Swinging
+61,MIA202104010,t9,1-0,2,---,,,TBR,Kevin Kiermaier,Ross Detwiler,1%,82%,Single to 2B (Ground Ball to 2B-1B)
+62,MIA202104010,t9,1-0,2,1--,,,TBR,Willy Adames,Ross Detwiler,1%,83%,Single to LF (Ground Ball thru SS-3B Hole); Kiermaier to 2B
+63,MIA202104010,t9,1-0,2,12-,,,TBR,Mike Zunino,Adam Cimber,2%,85%,Walk; Kiermaier to 3B; Adames to 2B
+64,MIA202104010,t9,1-0,2,123,,O,TBR,Manuel Margot,Adam Cimber,-5%,80%,Groundout: 3B unassisted/Forceout at 3B; Margot to 1B
+65,MIA202104010,b9,0-1,0,---,,O,MIA,Starling Marte,Diego Castillo,9%,89%,Strikeout Swinging
+66,MIA202104010,b9,0-1,1,---,,O,MIA,Jesus Aguilar,Diego Castillo,7%,95%,Flyball: LF (Deep LF)
+67,MIA202104010,b9,0-1,2,---,,O,MIA,Adam Duvall,Diego Castillo,5%,100%,Strikeout Swinging
+0,SDN202104010,t1,0-0,0,---,,O,ARI,Josh Rojas,Yu Darvish,2%,52%,Groundout: 1B unassisted
+1,SDN202104010,t1,0-0,1,---,,,ARI,Ketel Marte,Yu Darvish,-2%,50%,Single to 2B (Ground Ball to 2B-1B)
+2,SDN202104010,t1,0-0,1,1--,,,ARI,Christian Walker,Yu Darvish,-4%,46%,Single to RF (Line Drive to Deep CF-RF); Marte to 2B
+3,SDN202104010,t1,0-0,1,12-,,O,ARI,David Peralta,Yu Darvish,4%,51%,Strikeout Looking
+4,SDN202104010,t1,0-0,2,12-,,R,ARI,Asdrubal Cabrera,Yu Darvish,-10%,40%,Single to LF (Line Drive to Deep LF-CF); Marte Scores; Walker to 2B
+5,SDN202104010,t1,1-0,2,12-,,O,ARI,Eduardo Escobar,Yu Darvish,4%,44%,Groundout: 2B-1B (Short 1B Line)
+6,SDN202104010,b1,0-1,0,---,,O,SDP,Tommy Pham,Madison Bumgarner,-2%,42%,Strikeout Swinging
+7,SDN202104010,b1,0-1,1,---,,O,SDP,Fernando Tatis Jr.,Madison Bumgarner,-2%,40%,Lineout: RF (CF-RF)
+8,SDN202104010,b1,0-1,2,---,,O,SDP,Manny Machado,Madison Bumgarner,-1%,39%,Lineout: LF
+9,SDN202104010,t2,1-0,0,---,,O,ARI,Pavin Smith,Yu Darvish,2%,41%,Flyball: CF
+10,SDN202104010,t2,1-0,1,---,,O,ARI,Stephen Vogt,Yu Darvish,1%,42%,Strikeout Swinging
+11,SDN202104010,t2,1-0,2,---,,,ARI,Madison Bumgarner,Yu Darvish,-2%,40%,Double to LF (Fly Ball to Deep LF-CF)
+12,SDN202104010,t2,1-0,2,-2-,,O,ARI,Josh Rojas,Yu Darvish,3%,43%,Strikeout Swinging
+13,SDN202104010,b2,0-1,0,---,,O,SDP,Eric Hosmer,Madison Bumgarner,-2%,41%,Strikeout Swinging
+14,SDN202104010,b2,0-1,1,---,,,SDP,Wil Myers,Madison Bumgarner,3%,44%,Walk
+15,SDN202104010,b2,0-1,1,1--,,,SDP,Jake Cronenworth,Madison Bumgarner,4%,48%,Single to LF (Line Drive); Myers to 2B
+16,SDN202104010,b2,0-1,1,12-,,,SDP,Jurickson Profar,Madison Bumgarner,7%,55%,Walk; Myers to 3B; Cronenworth to 2B
+17,SDN202104010,b2,0-1,1,123,,RR,SDP,Victor Caratini,Madison Bumgarner,17%,72%,Single to CF (Fly Ball to CF-RF); Myers Scores; Cronenworth Scores; Profar to 3B
+18,SDN202104010,b2,2-1,1,1-3,,O,SDP,Yu Darvish,Madison Bumgarner,-6%,66%,Strikeout Swinging
+19,SDN202104010,b2,2-1,2,1-3,,,SDP,Tommy Pham,Madison Bumgarner,2%,68%,Hit By Pitch; Caratini to 2B
+20,SDN202104010,b2,2-1,2,123,,O,SDP,Fernando Tatis Jr.,Madison Bumgarner,-6%,62%,Strikeout Looking
+21,SDN202104010,t3,1-2,0,---,,,ARI,Ketel Marte,Yu Darvish,-7%,55%,Double to RF (Line Drive to Deep RF Line)
+22,SDN202104010,t3,1-2,0,-2-,,O,ARI,Christian Walker,Yu Darvish,5%,60%,Popfly: SS (Weak SS-2B)
+23,SDN202104010,t3,1-2,1,-2-,,O,ARI,David Peralta,Yu Darvish,4%,64%,Flyball: LF
+24,SDN202104010,t3,1-2,2,-2-,,O,ARI,Asdrubal Cabrera,Yu Darvish,4%,67%,Strikeout Looking
+25,SDN202104010,b3,2-1,0,---,,O,SDP,Manny Machado,Madison Bumgarner,-2%,65%,Strikeout Swinging
+26,SDN202104010,b3,2-1,1,---,,R,SDP,Eric Hosmer,Madison Bumgarner,10%,76%,Home Run (Line Drive to Deep CF-RF)
+27,SDN202104010,b3,3-1,1,---,,R,SDP,Wil Myers,Madison Bumgarner,8%,84%,Home Run (Fly Ball to Deep LF)
+28,SDN202104010,b3,4-1,1,---,,,SDP,Jake Cronenworth,Madison Bumgarner,1%,85%,Walk
+29,SDN202104010,b3,4-1,1,1--,,O,SDP,Jurickson Profar,Madison Bumgarner,-1%,84%,Groundout: C-1B; Cronenworth to 2B
+30,SDN202104010,b3,4-1,2,-2-,,R,SDP,Victor Caratini,Madison Bumgarner,5%,90%,Single to LF (Line Drive to Deep LF); Cronenworth Scores
+31,SDN202104010,b3,5-1,2,1--,,O,SDP,Yu Darvish,Madison Bumgarner,-1%,89%,Strikeout Looking
+32,SDN202104010,t4,1-5,0,---,,O,ARI,Eduardo Escobar,Yu Darvish,2%,90%,Strikeout Looking
+33,SDN202104010,t4,1-5,1,---,,,ARI,Pavin Smith,Yu Darvish,-3%,88%,Double to RF (Line Drive to Deep RF Line)
+34,SDN202104010,t4,1-5,1,-2-,,O,ARI,Stephen Vogt,Yu Darvish,2%,90%,Flyball: LF (Short LF Line)
+35,SDN202104010,t4,1-5,2,-2-,,O,ARI,Madison Bumgarner,Yu Darvish,2%,92%,Strikeout Looking
+36,SDN202104010,b4,5-1,0,---,,O,SDP,Tommy Pham,Madison Bumgarner,-1%,91%,Flyball: LF (Deep LF-CF)
+37,SDN202104010,b4,5-1,1,---,,,SDP,Fernando Tatis Jr.,Madison Bumgarner,1%,92%,Single to LF (Line Drive to Deep LF)
+38,SDN202104010,b4,5-1,1,1--,,O,SDP,Manny Machado,Madison Bumgarner,0%,92%,Groundout: SS-1B; Tatis to 2B
+39,SDN202104010,b4,5-1,2,-2-,,R,SDP,Eric Hosmer,Madison Bumgarner,3%,95%,Double to RF (Ground Ball); Tatis Scores
+40,SDN202104010,b4,6-1,2,-2-,,O,SDP,Wil Myers,Madison Bumgarner,-1%,94%,Lineout: RF (Deep RF)
+41,SDN202104010,t5,1-6,0,---,,O,ARI,Josh Rojas,Yu Darvish,1%,96%,Groundout: SS-1B (SS-2B)
+42,SDN202104010,t5,1-6,1,---,,R,ARI,Ketel Marte,Yu Darvish,-3%,92%,Home Run (Fly Ball to Deep CF)
+43,SDN202104010,t5,2-6,1,---,,,ARI,Christian Walker,Yu Darvish,-2%,90%,Walk
+44,SDN202104010,t5,2-6,1,1--,,O,ARI,David Peralta,Yu Darvish,2%,92%,Popfly: SS
+45,SDN202104010,t5,2-6,2,1--,,RR,ARI,Asdrubal Cabrera,Yu Darvish,-11%,81%,Home Run (Fly Ball to Deep RF Line); Walker Scores
+46,SDN202104010,t5,4-6,2,---,,,ARI,Eduardo Escobar,Tim Hill,-2%,79%,Reached on E6 (throw) (Ground Ball); Escobar to 1B
+47,SDN202104010,t5,4-6,2,1--,,RR,ARI,Tim Locastro,Tim Hill,-24%,55%,Home Run (Fly Ball to Deep LF-CF); Escobar Scores/unER; Locastro Scores/unER
+48,SDN202104010,t5,6-6,2,---,,R,ARI,Stephen Vogt,Tim Hill,-16%,39%,Home Run (Fly Ball to Deep RF Line); Vogt Scores/unER
+49,SDN202104010,t5,7-6,2,---,,O,ARI,Wyatt Mathisen,Tim Hill,1%,40%,Strikeout Swinging
+50,SDN202104010,b5,6-7,0,---,,,SDP,Jake Cronenworth,Kevin Ginkel,6%,46%,Walk
+51,SDN202104010,b5,6-7,0,1--,,OO,SDP,Jurickson Profar,Kevin Ginkel,-11%,35%,Ground Ball Double Play: SS-3B-1B
+52,SDN202104010,b5,6-7,2,---,,O,SDP,Victor Caratini,Kevin Ginkel,-2%,33%,Strikeout Swinging
+53,SDN202104010,t6,7-6,0,---,,O,ARI,Josh Rojas,Keone Kela,2%,35%,Strikeout Swinging; Rojas out at 1B/C-1B
+54,SDN202104010,t6,7-6,1,---,,,ARI,Ketel Marte,Keone Kela,-3%,33%,Single to LF (Line Drive to LF Line)
+55,SDN202104010,t6,7-6,1,1--,,O,ARI,Christian Walker,Keone Kela,3%,36%,Flyball: LF (Deep LF-CF)
+56,SDN202104010,t6,7-6,2,1--,,O,ARI,David Peralta,Keone Kela,2%,38%,Groundout: SS-2B/Forceout at 2B (Deep SS-2B); Peralta to 1B
+57,SDN202104010,b6,6-7,0,---,,,SDP,Tucupita Marcano,Stefan Crichton,6%,45%,Walk
+58,SDN202104010,b6,6-7,0,1--,,,SDP,Tommy Pham,Stefan Crichton,10%,54%,Single to LF (Ground Ball thru SS-3B Hole); Marcano to 2B
+59,SDN202104010,b6,6-7,0,12-,,O,SDP,Fernando Tatis Jr.,Stefan Crichton,-9%,45%,Strikeout Swinging
+60,SDN202104010,b6,6-7,1,12-,,O,SDP,Manny Machado,Stefan Crichton,-8%,37%,Flyball: RF (Short RF)
+61,SDN202104010,b6,6-7,2,12-,,R,SDP,Eric Hosmer,Alex Young,20%,58%,Single to RF (Ground Ball); Marcano Scores; Pham to 3B
+62,SDN202104010,b6,7-7,2,1-3,,O,SDP,Wil Myers,Alex Young,-8%,50%,Groundout: SS-1B (Deep SS)
+63,SDN202104010,t7,7-7,0,---,,O,ARI,Asdrubal Cabrera,Emilio Pagan,4%,54%,Flyball: RF (Deep CF-RF)
+64,SDN202104010,t7,7-7,1,---,,O,ARI,Eduardo Escobar,Emilio Pagan,3%,57%,Strikeout Swinging
+65,SDN202104010,t7,7-7,2,---,,O,ARI,Tim Locastro,Emilio Pagan,2%,59%,Popfly: SS (Short CF)
+66,SDN202104010,b7,7-7,0,---,,,SDP,Jake Cronenworth,Alex Young,18%,77%,Triple to RF (Fly Ball to Deep RF Line)
+67,SDN202104010,b7,7-7,0,--3,,RO,SDP,Jurickson Profar,Alex Young,1%,78%,Flyball: CF/Sacrifice Fly (Deep LF-CF); Cronenworth Scores
+68,SDN202104010,b7,8-7,1,---,,O,SDP,Victor Caratini,Alex Young,-1%,77%,Groundout: 3B-1B
+69,SDN202104010,b7,8-7,2,---,,O,SDP,Ha-Seong Kim,Alex Young,-1%,76%,Strikeout Swinging
+70,SDN202104010,t8,7-8,0,---,,O,ARI,Stephen Vogt,Drew Pomeranz,5%,81%,Strikeout Swinging
+71,SDN202104010,t8,7-8,1,---,,,ARI,Carson Kelly,Drew Pomeranz,-6%,75%,Single to RF (Line Drive to Deep RF)
+72,SDN202104010,t8,7-8,1,1--,,O,ARI,Josh Rojas,Drew Pomeranz,7%,82%,Strikeout Swinging
+73,SDN202104010,t8,7-8,2,1--,,O,ARI,Ketel Marte,Drew Pomeranz,6%,87%,Strikeout Looking
+74,SDN202104010,b8,8-7,0,---,,O,SDP,Tommy Pham,Taylor Clarke,-1%,86%,Flyball: RF (Deep CF-RF)
+75,SDN202104010,b8,8-7,1,---,,O,SDP,Fernando Tatis Jr.,Taylor Clarke,-1%,85%,Strikeout Swinging
+76,SDN202104010,b8,8-7,2,---,,O,SDP,Manny Machado,Taylor Clarke,-1%,84%,Flyball: LF (Deep LF-CF)
+77,SDN202104010,t9,7-8,0,---,,O,ARI,Christian Walker,Mark Melancon,7%,92%,Flyball: CF (Deep CF)
+78,SDN202104010,t9,7-8,1,---,,O,ARI,David Peralta,Mark Melancon,5%,97%,Groundout: P-1B
+79,SDN202104010,t9,7-8,2,---,,O,ARI,Asdrubal Cabrera,Mark Melancon,3%,100%,Groundout: 2B-1B (Deep 2B)
+0,ANA202104010,t1,0-0,0,---,,O,CHW,Tim Anderson,Dylan Bundy,2%,52%,Strikeout Swinging
+1,ANA202104010,t1,0-0,1,---,,O,CHW,Adam Eaton,Dylan Bundy,2%,54%,Groundout: 2B-1B
+2,ANA202104010,t1,0-0,2,---,,,CHW,José Abreu,Dylan Bundy,-1%,53%,Single to RF (Ground Ball thru 2B-1B)
+3,ANA202104010,t1,0-0,2,1--,,O,CHW,Yoan Moncada,Dylan Bundy,2%,55%,Strikeout Swinging
+4,ANA202104010,b1,0-0,0,---,,O,LAA,David Fletcher,Lucas Giolito,-2%,53%,Strikeout Swinging
+5,ANA202104010,b1,0-0,1,---,,O,LAA,Shohei Ohtani,Lucas Giolito,-2%,51%,Strikeout Swinging
+6,ANA202104010,b1,0-0,2,---,,O,LAA,Mike Trout,Lucas Giolito,-1%,50%,Strikeout Swinging
+7,ANA202104010,t2,0-0,0,---,,O,CHW,Yasmani Grandal,Dylan Bundy,2%,52%,Strikeout Swinging
+8,ANA202104010,t2,0-0,1,---,,O,CHW,Leury Garcia,Dylan Bundy,2%,54%,Strikeout Swinging
+9,ANA202104010,t2,0-0,2,---,,,CHW,Luis Robert,Dylan Bundy,-2%,52%,Double to LF (Line Drive)
+10,ANA202104010,t2,0-0,2,-2-,,,CHW,Zack Collins,Dylan Bundy,0%,51%,Robert Steals 3B
+11,ANA202104010,t2,0-0,2,--3,,R,CHW,Zack Collins,Dylan Bundy,-8%,44%,Wild Pitch; Robert Scores/No RBI
+12,ANA202104010,t2,1-0,2,---,,O,CHW,Zack Collins,Dylan Bundy,1%,45%,Groundout: 2B-1B
+13,ANA202104010,b2,0-1,0,---,,O,LAA,Anthony Rendon,Lucas Giolito,-3%,42%,Groundout: 2B-1B (Deep SS-2B)
+14,ANA202104010,b2,0-1,1,---,,O,LAA,Justin Upton,Lucas Giolito,-2%,40%,Strikeout Swinging
+15,ANA202104010,b2,0-1,2,---,,O,LAA,Albert Pujols,Lucas Giolito,-1%,39%,Flyball: RF (Short RF Line)
+16,ANA202104010,t3,1-0,0,---,,O,CHW,Nick Madrigal,Dylan Bundy,2%,41%,Lineout: CF (Deep CF)
+17,ANA202104010,t3,1-0,1,---,,O,CHW,Tim Anderson,Dylan Bundy,2%,43%,Groundout: 3B-1B
+18,ANA202104010,t3,1-0,2,---,,O,CHW,Adam Eaton,Dylan Bundy,1%,44%,Lineout: CF (Deep CF)
+19,ANA202104010,b3,0-1,0,---,,O,LAA,José Iglesias,Lucas Giolito,-3%,41%,Groundout: SS-1B
+20,ANA202104010,b3,0-1,1,---,,O,LAA,Max Stassi,Lucas Giolito,-2%,39%,Strikeout Looking
+21,ANA202104010,b3,0-1,2,---,,O,LAA,Dexter Fowler,Lucas Giolito,-1%,38%,Strikeout Swinging
+22,ANA202104010,t4,1-0,0,---,,O,CHW,José Abreu,Dylan Bundy,2%,40%,Strikeout Looking
+23,ANA202104010,t4,1-0,1,---,,,CHW,Yoan Moncada,Dylan Bundy,-4%,36%,Double to LF (Fly Ball to Short LF Line)
+24,ANA202104010,t4,1-0,1,-2-,,,CHW,Yasmani Grandal,Dylan Bundy,-2%,34%,Walk
+25,ANA202104010,t4,1-0,1,12-,,O,CHW,Leury Garcia,Dylan Bundy,3%,37%,Groundout: 1B unassisted; Moncada to 3B; Grandal to 2B
+26,ANA202104010,t4,1-0,2,-23,,O,CHW,Luis Robert,Dylan Bundy,6%,43%,Flyball: RF (RF Line)
+27,ANA202104010,b4,0-1,0,---,,O,LAA,David Fletcher,Lucas Giolito,-3%,40%,Flyball: RF
+28,ANA202104010,b4,0-1,1,---,,O,LAA,Shohei Ohtani,Lucas Giolito,-2%,38%,Foul Popfly: 3B (3B into Foul Terr.)
+29,ANA202104010,b4,0-1,2,---,,,LAA,Mike Trout,Lucas Giolito,2%,40%,Walk
+30,ANA202104010,b4,0-1,2,1--,,,LAA,Anthony Rendon,Lucas Giolito,3%,42%,Walk; Trout to 2B
+31,ANA202104010,b4,0-1,2,12-,,R,LAA,Justin Upton,Lucas Giolito,13%,55%,Single to CF (Line Drive to Deep CF); Trout Scores; Rendon to 2B
+32,ANA202104010,b4,1-1,2,12-,,O,LAA,Albert Pujols,Lucas Giolito,-5%,50%,Flyball: CF (Deep LF-CF)
+33,ANA202104010,t5,1-1,0,---,,O,CHW,Zack Collins,Dylan Bundy,3%,53%,Groundout: 2B-1B
+34,ANA202104010,t5,1-1,1,---,,O,CHW,Nick Madrigal,Dylan Bundy,2%,55%,Groundout: SS-1B (Deep SS-2B)
+35,ANA202104010,t5,1-1,2,---,,,CHW,Tim Anderson,Dylan Bundy,-2%,54%,Single to CF (Ground Ball thru SS-2B)
+36,ANA202104010,t5,1-1,2,1--,,RR,CHW,Adam Eaton,Dylan Bundy,-25%,28%,Home Run (Fly Ball to Deep RF Line); Anderson Scores
+37,ANA202104010,t5,3-1,2,---,,O,CHW,José Abreu,Dylan Bundy,1%,29%,Strikeout Swinging
+38,ANA202104010,b5,1-3,0,---,,O,LAA,José Iglesias,Lucas Giolito,-3%,26%,Lineout: CF (Deep CF)
+39,ANA202104010,b5,1-3,1,---,,R,LAA,Max Stassi,Lucas Giolito,12%,39%,Home Run (Fly Ball to Deep CF)
+40,ANA202104010,b5,2-3,1,---,,O,LAA,Dexter Fowler,Lucas Giolito,-2%,36%,Strikeout Swinging
+41,ANA202104010,b5,2-3,2,---,,O,LAA,David Fletcher,Lucas Giolito,-2%,34%,Strikeout Swinging
+42,ANA202104010,t6,3-2,0,---,,,CHW,Yoan Moncada,Dylan Bundy,-4%,31%,Single to CF (Line Drive to Deep CF-RF)
+43,ANA202104010,t6,3-2,0,1--,,O,CHW,Yasmani Grandal,Dylan Bundy,4%,34%,Flyball: LF (Deep LF-CF)
+44,ANA202104010,t6,3-2,1,1--,,O,CHW,Leury Garcia,Dylan Bundy,3%,37%,Groundout: 1B-SS/Forceout at 2B; Garcia to 1B
+45,ANA202104010,t6,3-2,2,1--,,O,CHW,Luis Robert,Dylan Bundy,3%,40%,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); Robert to 1B
+46,ANA202104010,b6,2-3,0,---,,O,LAA,Shohei Ohtani,Lucas Giolito,-4%,36%,Lineout: RF (Deep RF)
+47,ANA202104010,b6,2-3,1,---,,,LAA,Mike Trout,Codi Heuer,4%,41%,Walk
+48,ANA202104010,b6,2-3,1,1--,,,LAA,Anthony Rendon,Codi Heuer,6%,47%,Single to CF (Line Drive); Trout to 2B
+49,ANA202104010,b6,2-3,1,12-,,OO,LAA,Justin Upton,Codi Heuer,-15%,31%,Ground Ball Double Play: 3B-2B-1B (Deep 3B)
+50,ANA202104010,t7,3-2,0,---,,O,CHW,Zack Collins,Aaron Slegers,3%,34%,Flyball: LF (LF Line)
+51,ANA202104010,t7,3-2,1,---,,,CHW,Nick Madrigal,Aaron Slegers,-3%,31%,Single to 3B (Ground Ball)
+52,ANA202104010,t7,3-2,1,1--,,O,CHW,Tim Anderson,Aaron Slegers,5%,36%,Madrigal Caught Stealing 2B (C-2B)
+53,ANA202104010,t7,3-2,2,---,,O,CHW,Tim Anderson,Aaron Slegers,1%,37%,Strikeout Swinging
+54,ANA202104010,b7,2-3,0,---,,O,LAA,Albert Pujols,Codi Heuer,-5%,32%,Popfly: 2B (SS-2B)
+55,ANA202104010,b7,2-3,1,---,,O,LAA,José Iglesias,Codi Heuer,-4%,28%,Groundout: 3B-1B
+56,ANA202104010,b7,2-3,2,---,,,LAA,Max Stassi,Codi Heuer,3%,31%,Single to LF (Line Drive to LF-CF)
+57,ANA202104010,b7,2-3,2,1--,,O,LAA,Dexter Fowler,Codi Heuer,-5%,26%,Strikeout Swinging
+58,ANA202104010,t8,3-2,0,---,,O,CHW,Adam Eaton,Mike Mayers,2%,28%,Strikeout Looking
+59,ANA202104010,t8,3-2,1,---,,O,CHW,José Abreu,Mike Mayers,2%,30%,Groundout: SS-1B
+60,ANA202104010,t8,3-2,2,---,,,CHW,Yoan Moncada,Mike Mayers,-1%,29%,Walk
+61,ANA202104010,t8,3-2,2,1--,,O,CHW,Yasmani Grandal,Mike Mayers,3%,32%,Groundout: P-1B (Weak SS-2B)
+62,ANA202104010,b8,2-3,0,---,,,LAA,David Fletcher,Aaron Bummer,10%,41%,Single to P (Ground Ball to Weak 2B)
+63,ANA202104010,b8,2-3,0,1--,,,LAA,Shohei Ohtani,Aaron Bummer,14%,55%,Fielder's Choice 2B; Fletcher to 2B/Adv on E4 (throw); Ohtani to 1B
+64,ANA202104010,b8,2-3,0,12-,,,LAA,Mike Trout,Aaron Bummer,10%,64%,Passed Ball; Fletcher to 3B
+65,ANA202104010,b8,2-3,0,1-3,,R,LAA,Mike Trout,Aaron Bummer,12%,76%,Single to LF (Ground Ball); Fletcher Scores/unER; Ohtani to 2B
+66,ANA202104010,b8,3-3,0,12-,,O,LAA,Anthony Rendon,Aaron Bummer,-9%,67%,Strikeout Swinging
+67,ANA202104010,b8,3-3,1,12-,,,LAA,Justin Upton,Aaron Bummer,10%,78%,Walk; Ohtani to 3B; Trout to 2B
+68,ANA202104010,b8,3-3,1,123,,RO,LAA,Albert Pujols,Aaron Bummer,9%,87%,Groundout: 3B-1B (Weak 3B); Ohtani Scores/unER; Trout to 3B; Upton to 2B
+69,ANA202104010,b8,4-3,2,-23,,O,LAA,José Iglesias,Matt Foster,-4%,83%,Groundout: 3B-1B
+70,ANA202104010,t9,3-4,0,---,,O,CHW,Leury Garcia,Raisel Iglesias,8%,91%,Strikeout Swinging
+71,ANA202104010,t9,3-4,1,---,,O,CHW,Luis Robert,Raisel Iglesias,6%,96%,Strikeout Swinging
+72,ANA202104010,t9,3-4,2,---,,O,CHW,Zack Collins,Raisel Iglesias,4%,100%,Flyball: RF (Deep CF-RF)
+0,OAK202104010,t1,0-0,0,---,,O,HOU,Jose Altuve,Chris Bassitt,-2%,48%,Flyball: CF (Deep CF)
+1,OAK202104010,t1,0-0,1,---,,,HOU,Michael Brantley,Chris Bassitt,2%,50%,Single to CF (Line Drive to LF-CF)
+2,OAK202104010,t1,0-0,1,1--,,OO,HOU,Alex Bregman,Chris Bassitt,-5%,45%,Ground Ball Double Play: 2B-1B (SS-2B)
+3,OAK202104010,b1,0-0,0,---,,O,OAK,Mark Canha,Zack Greinke,2%,47%,Groundout: 3B-1B (SS-3B Hole)
+4,OAK202104010,b1,0-0,1,---,,O,OAK,Ramon Laureano,Zack Greinke,2%,49%,Groundout: SS-1B
+5,OAK202104010,b1,0-0,2,---,,O,OAK,Matt Olson,Zack Greinke,1%,50%,Strikeout Swinging
+6,OAK202104010,t2,0-0,0,---,,O,HOU,Kyle Tucker,Chris Bassitt,-2%,48%,Strikeout Swinging
+7,OAK202104010,t2,0-0,1,---,,O,HOU,Carlos Correa,Chris Bassitt,-2%,46%,Groundout: 2B-1B (Deep SS-2B)
+8,OAK202104010,t2,0-0,2,---,,O,HOU,Yordan Álvarez,Chris Bassitt,-1%,45%,Popfly: 3B (SS-3B Hole)
+9,OAK202104010,b2,0-0,0,---,,O,OAK,Matt Chapman,Zack Greinke,2%,47%,Strikeout Swinging
+10,OAK202104010,b2,0-0,1,---,,O,OAK,Mitch Moreland,Zack Greinke,2%,49%,Groundout: 1B unassisted
+11,OAK202104010,b2,0-0,2,---,,O,OAK,Jed Lowrie,Zack Greinke,1%,50%,Lineout: P-1B (Weak SS-2B)
+12,OAK202104010,t3,0-0,0,---,,O,HOU,Yuli Gurriel,Chris Bassitt,-3%,47%,Strikeout Swinging
+13,OAK202104010,t3,0-0,1,---,,O,HOU,Myles Straw,Chris Bassitt,-2%,46%,Groundout: 3B-1B
+14,OAK202104010,t3,0-0,2,---,,O,HOU,Martin Maldonado,Chris Bassitt,-1%,45%,Groundout: 3B-1B
+15,OAK202104010,b3,0-0,0,---,,O,OAK,Sean Murphy,Zack Greinke,3%,47%,Flyball: CF (Deep CF)
+16,OAK202104010,b3,0-0,1,---,,O,OAK,Chad Pinder,Zack Greinke,2%,49%,Flyball: CF (Deep CF)
+17,OAK202104010,b3,0-0,2,---,,,OAK,Elvis Andrus,Zack Greinke,-3%,46%,Ground-rule Double (Fly Ball to Deep LF)
+18,OAK202104010,b3,0-0,2,-2-,,,OAK,Mark Canha,Zack Greinke,0%,46%,Wild Pitch; Andrus to 3B
+19,OAK202104010,b3,0-0,2,--3,,O,OAK,Mark Canha,Zack Greinke,4%,50%,Strikeout Swinging
+20,OAK202104010,t4,0-0,0,---,,,HOU,Jose Altuve,Chris Bassitt,4%,54%,Walk
+21,OAK202104010,t4,0-0,0,1--,,,HOU,Michael Brantley,Chris Bassitt,13%,67%,Double to RF (Line Drive to Deep CF-RF); Altuve to 3B
+22,OAK202104010,t4,0-0,0,-23,,RO,HOU,Alex Bregman,Chris Bassitt,-2%,65%,Groundout: 3B-1B; Altuve Scores
+23,OAK202104010,t4,1-0,1,-2-,,O,HOU,Kyle Tucker,Chris Bassitt,-4%,61%,Flyball: RF (Deep CF-RF)
+24,OAK202104010,t4,1-0,2,-2-,,,HOU,Carlos Correa,Chris Bassitt,1%,62%,Hit By Pitch
+25,OAK202104010,t4,1-0,2,12-,,O,HOU,Yordan Álvarez,Chris Bassitt,-4%,58%,Flyball: LF (Short LF)
+26,OAK202104010,b4,0-1,0,---,,,OAK,Ramon Laureano,Zack Greinke,-5%,53%,Single to RF (Line Drive to CF-RF)
+27,OAK202104010,b4,0-1,0,1--,,O,OAK,Matt Olson,Zack Greinke,5%,57%,Lineout: LF (Deep LF)
+28,OAK202104010,b4,0-1,1,1--,,OO,OAK,Matt Chapman,Zack Greinke,7%,64%,Ground Ball Double Play: SS-2B-1B
+29,OAK202104010,t5,1-0,0,---,,,HOU,Yuli Gurriel,Chris Bassitt,4%,68%,Single to CF (Ground Ball thru SS-2B)
+30,OAK202104010,t5,1-0,0,1--,,O,HOU,Myles Straw,Chris Bassitt,-3%,64%,Foul Popfly: RF (RF into Foul Terr.)
+31,OAK202104010,t5,1-0,1,1--,,O,HOU,Martin Maldonado,Chris Bassitt,-3%,61%,Strikeout Swinging
+32,OAK202104010,t5,1-0,2,1--,,O,HOU,Jose Altuve,Chris Bassitt,-2%,59%,Lineout: RF (RF Line)
+33,OAK202104010,b5,0-1,0,---,,O,OAK,Mitch Moreland,Zack Greinke,3%,62%,Foul Popfly: 3B (3B into Foul Terr.)
+34,OAK202104010,b5,0-1,1,---,,O,OAK,Jed Lowrie,Zack Greinke,2%,65%,Flyball: CF (Deep CF)
+35,OAK202104010,b5,0-1,2,---,,O,OAK,Sean Murphy,Zack Greinke,2%,66%,Strikeout Swinging
+36,OAK202104010,t6,1-0,0,---,,O,HOU,Michael Brantley,Chris Bassitt,-2%,64%,Lineout: SS (Deep 2B)
+37,OAK202104010,t6,1-0,1,---,,,HOU,Alex Bregman,Chris Bassitt,5%,69%,Double to CF (Line Drive to Deep LF-CF)
+38,OAK202104010,t6,1-0,1,-2-,,,HOU,Kyle Tucker,Chris Bassitt,2%,70%,Walk
+39,OAK202104010,t6,1-0,1,12-,,O,HOU,Carlos Correa,Yusmeiro Petit,-5%,66%,Foul Popfly: C (Behind Home)
+40,OAK202104010,t6,1-0,2,12-,,RR,HOU,Yordan Álvarez,Yusmeiro Petit,20%,86%,Double to CF (Fly Ball to Deep LF); Bregman Scores; Tucker Scores
+41,OAK202104010,t6,3-0,2,-2-,,O,HOU,Yuli Gurriel,Yusmeiro Petit,-2%,84%,Groundout: 2B-1B (SS-2B)
+42,OAK202104010,b6,0-3,0,---,,,OAK,Chad Pinder,Zack Greinke,-5%,80%,Single to LF (Line Drive)
+43,OAK202104010,b6,0-3,0,1--,,OO,OAK,Elvis Andrus,Zack Greinke,9%,89%,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+44,OAK202104010,b6,0-3,2,---,,O,OAK,Mark Canha,Zack Greinke,1%,90%,Flyball: RF (Short RF)
+45,OAK202104010,t7,3-0,0,---,,O,HOU,Myles Straw,Lou Trivino,-1%,89%,Lineout: 1B (Deep 2B-1B)
+46,OAK202104010,t7,3-0,1,---,,O,HOU,Martin Maldonado,Lou Trivino,-1%,88%,Groundout: 3B-1B (SS-3B Hole)
+47,OAK202104010,t7,3-0,2,---,,O,HOU,Jose Altuve,Lou Trivino,0%,88%,Flyball: CF
+48,OAK202104010,b7,0-3,0,---,,,OAK,Ramon Laureano,Enoli Paredes,0%,88%,E3 on Foul Ball
+49,OAK202104010,b7,0-3,0,---,,,OAK,Ramon Laureano,Enoli Paredes,-7%,81%,Double to LF (Line Drive)
+50,OAK202104010,b7,0-3,0,-2-,,,OAK,Matt Olson,Enoli Paredes,-2%,79%,Laureano Steals 3B
+51,OAK202104010,b7,0-3,0,--3,,,OAK,Matt Olson,Enoli Paredes,-8%,71%,Walk
+52,OAK202104010,b7,0-3,0,1-3,,RO,OAK,Matt Chapman,Enoli Paredes,7%,78%,Flyball: LF/Sacrifice Fly (Deep LF); Laureano Scores/unER
+53,OAK202104010,b7,1-3,1,1--,,,OAK,Mitch Moreland,Enoli Paredes,-7%,71%,Walk; Olson to 2B
+54,OAK202104010,b7,1-3,1,12-,,O,OAK,Jed Lowrie,Enoli Paredes,8%,79%,Strikeout Swinging
+55,OAK202104010,b7,1-3,2,12-,,O,OAK,Sean Murphy,Enoli Paredes,7%,87%,Strikeout Swinging
+56,OAK202104010,t8,3-1,0,---,,R,HOU,Michael Brantley,Adam Kolarek,6%,93%,Home Run (Line Drive to Deep RF Line)
+57,OAK202104010,t8,4-1,0,---,,R,HOU,Alex Bregman,Adam Kolarek,3%,97%,Home Run (Fly Ball to Deep LF)
+58,OAK202104010,t8,5-1,0,---,,O,HOU,Kyle Tucker,Adam Kolarek,0%,96%,Groundout: SS-1B (Deep 2B-1B)
+59,OAK202104010,t8,5-1,1,---,,,HOU,Carlos Correa,Adam Kolarek,0%,97%,Walk
+60,OAK202104010,t8,5-1,1,1--,,,HOU,Yordan Álvarez,Adam Kolarek,0%,97%,Hit By Pitch; Correa to 2B
+61,OAK202104010,t8,5-1,1,12-,,,HOU,Yuli Gurriel,J.B. Wendelken,1%,98%,Walk; Correa to 3B; Álvarez to 2B
+62,OAK202104010,t8,5-1,1,123,,O,HOU,Myles Straw,J.B. Wendelken,-1%,97%,Strikeout Looking
+63,OAK202104010,t8,5-1,2,123,,O,HOU,Martin Maldonado,J.B. Wendelken,-1%,96%,Strikeout Swinging
+64,OAK202104010,b8,1-5,0,---,,,OAK,Chad Pinder,Joe Smith,-4%,92%,Single to 3B (Ground Ball to SS-3B Hole); Pinder to 2B/Adv on E5 (throw)
+65,OAK202104010,b8,1-5,0,-2-,,O,OAK,Elvis Andrus,Joe Smith,3%,95%,Strikeout Swinging
+66,OAK202104010,b8,1-5,1,-2-,,,OAK,Mark Canha,Joe Smith,-3%,93%,Single to 2B (Ground Ball to SS-2B); Pinder stays at 2B
+67,OAK202104010,b8,1-5,1,12-,,O,OAK,Ramon Laureano,Joe Smith,4%,96%,Lineout: CF
+68,OAK202104010,b8,1-5,2,12-,,O,OAK,Matt Olson,Blake Taylor,2%,99%,Strikeout Looking
+69,OAK202104010,t9,5-1,0,---,,,HOU,Jose Altuve,Reymin Guduan,0%,99%,Single to CF (Line Drive)
+70,OAK202104010,t9,5-1,0,1--,,,HOU,Michael Brantley,Reymin Guduan,0%,99%,Walk; Altuve to 2B
+71,OAK202104010,t9,5-1,0,12-,,,HOU,Alex Bregman,Reymin Guduan,0%,99%,Walk; Altuve to 3B; Brantley to 2B
+72,OAK202104010,t9,5-1,0,123,,RO,HOU,Kyle Tucker,Reymin Guduan,0%,100%,Lineout: CF/Sacrifice Fly (Deep CF); Altuve Scores
+73,OAK202104010,t9,6-1,1,12-,,,HOU,Carlos Correa,Reymin Guduan,0%,100%,Single to RF (Pop Fly to Deep 1B); Brantley to 3B; Garcia to 2B
+74,OAK202104010,t9,6-1,1,123,,R,HOU,Yordan Álvarez,Reymin Guduan,0%,100%,Wild Pitch; Brantley Scores/No RBI; Garcia to 3B; Correa to 2B
+75,OAK202104010,t9,7-1,1,-23,,RO,HOU,Yordan Álvarez,Reymin Guduan,0%,100%,Flyball: CF/Sacrifice Fly (Deep CF); Garcia Scores
+76,OAK202104010,t9,8-1,2,-2-,,O,HOU,Yuli Gurriel,Reymin Guduan,0%,100%,Groundout: 1B unassisted (2B-1B)
+77,OAK202104010,b9,1-8,0,---,,O,OAK,Matt Chapman,Ryne Stanek,0%,100%,Strikeout Swinging
+78,OAK202104010,b9,1-8,1,---,,O,OAK,Ka'ai Tom,Ryne Stanek,0%,100%,Groundout: 2B-1B (Deep 2B-1B)
+79,OAK202104010,b9,1-8,2,---,,,OAK,Jed Lowrie,Ryne Stanek,0%,100%,Walk
+80,OAK202104010,b9,1-8,2,1--,,,OAK,Sean Murphy,Ryne Stanek,0%,100%,Hit By Pitch; Lowrie to 2B
+81,OAK202104010,b9,1-8,2,12-,,O,OAK,Chad Pinder,Ryne Stanek,0%,100%,Strikeout Swinging
+0,SEA202104010,t1,0-0,0,---,,,SFG,Austin Slater,Marco Gonzales,-4%,46%,Walk
+1,SEA202104010,t1,0-0,0,1--,,O,SFG,Mike Yastrzemski,Marco Gonzales,3%,50%,Strikeout Swinging
+2,SEA202104010,t1,0-0,1,1--,,OO,SFG,Donovan Solano,Marco Gonzales,5%,55%,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+3,SEA202104010,b1,0-0,0,---,,O,SEA,Mitch Haniger,Kevin Gausman,-2%,53%,Groundout: 3B-1B (Weak 3B)
+4,SEA202104010,b1,0-0,1,---,,O,SEA,Ty France,Kevin Gausman,-2%,51%,Groundout: P-1B
+5,SEA202104010,b1,0-0,2,---,,O,SEA,Kyle Seager,Kevin Gausman,-1%,50%,Flyball: CF (LF-CF)
+6,SEA202104010,t2,0-0,0,---,,R,SFG,Evan Longoria,Marco Gonzales,-11%,39%,Home Run (Fly Ball to Deep RF)
+7,SEA202104010,t2,1-0,0,---,,O,SFG,Brandon Belt,Marco Gonzales,2%,41%,Flyball: RF (Deep RF)
+8,SEA202104010,t2,1-0,1,---,,O,SFG,Wilmer Flores,Marco Gonzales,1%,43%,Lineout: RF (Deep CF-RF)
+9,SEA202104010,t2,1-0,2,---,,R,SFG,Buster Posey,Marco Gonzales,-10%,33%,Home Run (Fly Ball to Deep LF Line)
+10,SEA202104010,t2,2-0,2,---,,O,SFG,Brandon Crawford,Marco Gonzales,1%,34%,Lineout: 2B (Deep 2B)
+11,SEA202104010,b2,0-2,0,---,,O,SEA,Evan White,Kevin Gausman,-2%,31%,Flyball: CF (Deep CF-RF)
+12,SEA202104010,b2,0-2,1,---,,O,SEA,Taylor Trammell,Kevin Gausman,-2%,29%,Foul Popfly: 3B (3B into Foul Terr.)
+13,SEA202104010,b2,0-2,2,---,,O,SEA,Dylan Moore,Kevin Gausman,-1%,28%,Strikeout Looking
+14,SEA202104010,t3,2-0,0,---,,O,SFG,Mauricio Dubon,Marco Gonzales,2%,30%,Groundout: 3B-1B (SS-3B Hole)
+15,SEA202104010,t3,2-0,1,---,,O,SFG,Austin Slater,Marco Gonzales,1%,31%,Flyball: 2B (Deep 2B)
+16,SEA202104010,t3,2-0,2,---,,O,SFG,Mike Yastrzemski,Marco Gonzales,1%,32%,Flyball: SS (Deep 2B)
+17,SEA202104010,b3,0-2,0,---,,O,SEA,Jake Fraley,Kevin Gausman,-3%,30%,Lineout: LF (LF Line)
+18,SEA202104010,b3,0-2,1,---,,O,SEA,Tom Murphy,Kevin Gausman,-2%,28%,Groundout: SS-1B (SS-3B Hole)
+19,SEA202104010,b3,0-2,2,---,,O,SEA,J.P. Crawford,Kevin Gausman,-1%,27%,Strikeout Swinging
+20,SEA202104010,t4,2-0,0,---,,,SFG,Donovan Solano,Marco Gonzales,-3%,24%,Single to RF (Line Drive to CF-RF)
+21,SEA202104010,t4,2-0,0,1--,,O,SFG,Evan Longoria,Marco Gonzales,-1%,23%,Single to CF (Line Drive to CF-RF); Solano to 3B; Longoria out at 2B/CF-SS
+22,SEA202104010,t4,2-0,1,--3,,,SFG,Brandon Belt,Marco Gonzales,-1%,21%,Walk
+23,SEA202104010,t4,2-0,1,1-3,,R,SFG,Wilmer Flores,Marco Gonzales,-8%,13%,Double to LF (Line Drive to Deep LF Line); Solano Scores; Belt to 3B
+24,SEA202104010,t4,3-0,1,-23,,O,SFG,Buster Posey,Marco Gonzales,4%,18%,Groundout: P-1B (Weak SS-2B)
+25,SEA202104010,t4,3-0,2,-23,,O,SFG,Brandon Crawford,Marco Gonzales,3%,21%,Groundout: P-1B (Short 1B Line)
+26,SEA202104010,b4,0-3,0,---,,O,SEA,Mitch Haniger,Kevin Gausman,-2%,18%,Flyball: RF (Short RF)
+27,SEA202104010,b4,0-3,1,---,,O,SEA,Ty France,Kevin Gausman,-2%,17%,Strikeout Swinging
+28,SEA202104010,b4,0-3,2,---,,,SEA,Kyle Seager,Kevin Gausman,2%,19%,Double to LF (Line Drive to LF Line)
+29,SEA202104010,b4,0-3,2,-2-,,O,SEA,Evan White,Kevin Gausman,-3%,16%,Strikeout Looking
+30,SEA202104010,t5,3-0,0,---,,O,SFG,Mauricio Dubon,Marco Gonzales,1%,17%,Flyball: CF (Deep CF)
+31,SEA202104010,t5,3-0,1,---,,R,SFG,Austin Slater,Marco Gonzales,-6%,11%,Home Run (Fly Ball to Deep RF Line)
+32,SEA202104010,t5,4-0,1,---,,O,SFG,Mike Yastrzemski,Marco Gonzales,1%,11%,Strikeout Swinging
+33,SEA202104010,t5,4-0,2,---,,,SFG,Donovan Solano,Marco Gonzales,-1%,10%,Double to LF (Ground Ball)
+34,SEA202104010,t5,4-0,2,-2-,,,SFG,Evan Longoria,Marco Gonzales,0%,10%,Intentional Walk
+35,SEA202104010,t5,4-0,2,12-,,R,SFG,Brandon Belt,Marco Gonzales,-4%,6%,Single to RF (Ground Ball); Solano Scores; Longoria to 3B
+36,SEA202104010,t5,5-0,2,1-3,,O,SFG,Wilmer Flores,Marco Gonzales,1%,7%,Popfly: 2B
+37,SEA202104010,b5,0-5,0,---,,O,SEA,Taylor Trammell,Kevin Gausman,-1%,6%,Strikeout Swinging
+38,SEA202104010,b5,0-5,1,---,,O,SEA,Dylan Moore,Kevin Gausman,-1%,5%,Groundout: P-2B-1B
+39,SEA202104010,b5,0-5,2,---,,,SEA,Jake Fraley,Kevin Gausman,1%,6%,Walk
+40,SEA202104010,b5,0-5,2,1--,,O,SEA,Tom Murphy,Kevin Gausman,-1%,4%,Strikeout Swinging
+41,SEA202104010,t6,5-0,0,---,,O,SFG,Buster Posey,Marco Gonzales,0%,5%,Groundout: SS-1B (SS-3B Hole)
+42,SEA202104010,t6,5-0,1,---,,O,SFG,Brandon Crawford,Marco Gonzales,0%,5%,Groundout: 1B-P (Weak 1B)
+43,SEA202104010,t6,5-0,2,---,,O,SFG,Mauricio Dubon,Marco Gonzales,0%,5%,Foul Popfly: 3B (Behind Home)
+44,SEA202104010,b6,0-5,0,---,,O,SEA,J.P. Crawford,Kevin Gausman,-1%,4%,Flyball: RF (Deep CF-RF)
+45,SEA202104010,b6,0-5,1,---,,O,SEA,Mitch Haniger,Kevin Gausman,-1%,3%,Foul Popfly: 1B (1B into Foul Terr.)
+46,SEA202104010,b6,0-5,2,---,,,SEA,Ty France,Kevin Gausman,1%,4%,Walk
+47,SEA202104010,b6,0-5,2,1--,,O,SEA,Kyle Seager,Kevin Gausman,-1%,3%,Flyball: CF (Deep CF)
+48,SEA202104010,t7,5-0,0,---,,O,SFG,Austin Slater,Casey Sadler,0%,3%,Strikeout Swinging
+49,SEA202104010,t7,5-0,1,---,,O,SFG,Mike Yastrzemski,Casey Sadler,0%,3%,Strikeout Swinging
+50,SEA202104010,t7,5-0,2,---,,O,SFG,Donovan Solano,Casey Sadler,0%,4%,Flyball: CF (Deep CF-RF)
+51,SEA202104010,b7,0-5,0,---,,,SEA,Evan White,Kevin Gausman,3%,6%,Double to RF (Ground Ball)
+52,SEA202104010,b7,0-5,0,-2-,,O,SEA,Taylor Trammell,Kevin Gausman,-2%,5%,Groundout: 1B-P; White to 3B
+53,SEA202104010,b7,0-5,1,--3,,RO,SEA,Dylan Moore,Kevin Gausman,-1%,4%,Lineout: CF/Sacrifice Fly (Deep CF); White Scores
+54,SEA202104010,b7,1-5,2,---,,,SEA,Jake Fraley,Caleb Baragar,1%,5%,Walk
+55,SEA202104010,b7,1-5,2,1--,,O,SEA,Tom Murphy,Caleb Baragar,-1%,3%,Strikeout Swinging
+56,SEA202104010,t8,5-1,0,---,,O,SFG,Evan Longoria,Will Vest,0%,4%,Strikeout Looking
+57,SEA202104010,t8,5-1,1,---,,O,SFG,Brandon Belt,Will Vest,0%,4%,Foul Popfly: 2B (Short RF into Foul Terr.)
+58,SEA202104010,t8,5-1,2,---,,,SFG,Wilmer Flores,Will Vest,0%,4%,Double to LF (Line Drive to Deep LF Line)
+59,SEA202104010,t8,5-1,2,-2-,,,SFG,Buster Posey,Will Vest,0%,4%,Wild Pitch; Flores to 3B
+60,SEA202104010,t8,5-1,2,--3,,,SFG,Buster Posey,Will Vest,0%,3%,Walk
+61,SEA202104010,t8,5-1,2,1-3,,R,SFG,Brandon Crawford,Will Vest,-2%,2%,Reached on E6 (throw) (Ground Ball); Flores Scores/No RBI/unER; Posey to 3B; Crawford to 1B
+62,SEA202104010,t8,6-1,2,1-3,,O,SFG,Mauricio Dubon,Will Vest,0%,2%,Lineout: LF (Deep LF-CF)
+63,SEA202104010,b8,1-6,0,---,,,SEA,J.P. Crawford,Matt Wisler,2%,4%,Walk
+64,SEA202104010,b8,1-6,0,1--,,,SEA,Mitch Haniger,Matt Wisler,3%,7%,Single to LF (Ground Ball thru SS-3B Hole); Crawford to 2B
+65,SEA202104010,b8,1-6,0,12-,,R,SEA,Ty France,Matt Wisler,6%,12%,Single to CF (Line Drive); Crawford Scores; Haniger to 2B
+66,SEA202104010,b8,2-6,0,12-,,,SEA,Kyle Seager,Jarlin Garcia,9%,22%,Walk; Haniger to 3B; France to 2B
+67,SEA202104010,b8,2-6,0,123,,O,SEA,Evan White,Jarlin Garcia,-8%,14%,Strikeout Swinging
+68,SEA202104010,b8,2-6,1,123,,R,SEA,Taylor Trammell,Jarlin Garcia,10%,24%,Walk; Haniger Scores; France to 3B; Seager to 2B
+69,SEA202104010,b8,3-6,1,123,,RR,SEA,Dylan Moore,Tyler Rogers,31%,55%,Double to RF (Line Drive to RF Line); France Scores; Seager Scores; Trammell to 3B
+70,SEA202104010,b8,5-6,1,-23,,,SEA,Jake Fraley,Tyler Rogers,1%,55%,Hit By Pitch
+71,SEA202104010,b8,5-6,1,123,,RR,SEA,Jose Marmolejos,Tyler Rogers,36%,91%,Fielder's Choice 1B; Trammell Scores; Moore Scores/No RBI/unER; Fraley to 3B/Adv on E3 (throw); Marmolejos to 1B
+72,SEA202104010,b8,7-6,1,1-3,,O,SEA,J.P. Crawford,Tyler Rogers,-4%,87%,Bunt Popfly: 1B (Weak 1B)
+73,SEA202104010,b8,7-6,2,1-3,,O,SEA,Mitch Haniger,Tyler Rogers,-3%,84%,Flyball: CF (Deep CF)
+74,SEA202104010,t9,6-7,0,---,,R,SFG,Alex Dickerson,Rafael Montero,-34%,50%,Home Run (Line Drive to Deep CF-RF)
+75,SEA202104010,t9,7-7,0,---,,O,SFG,Mike Yastrzemski,Rafael Montero,6%,56%,Groundout: SS-1B (Deep SS-2B)
+76,SEA202104010,t9,7-7,1,---,,O,SFG,Donovan Solano,Rafael Montero,4%,60%,Strikeout Swinging
+77,SEA202104010,t9,7-7,2,---,,O,SFG,Evan Longoria,Rafael Montero,3%,64%,Strikeout Swinging
+78,SEA202104010,b9,7-7,0,---,,O,SEA,Ty France,Jake McGee,-6%,58%,Strikeout Looking
+79,SEA202104010,b9,7-7,1,---,,O,SEA,Kyle Seager,Jake McGee,-4%,53%,Groundout: SS-1B
+80,SEA202104010,b9,7-7,2,---,,O,SEA,Evan White,Jake McGee,-3%,50%,Flyball: RF (Deep RF)
+81,SEA202104010,t10,7-7,0,-2-,,O,SFG,Brandon Belt,Anthony Misiewicz,2%,52%,Groundout: SS-1B (SS-2B); Longoria to 3B
+82,SEA202104010,t10,7-7,1,--3,,O,SFG,Wilmer Flores,Anthony Misiewicz,16%,68%,Groundout: SS-1B (SS-3B Hole)
+83,SEA202104010,t10,7-7,2,--3,,O,SFG,Buster Posey,Anthony Misiewicz,13%,81%,Flyball: RF (Short RF Line)
+84,SEA202104010,b10,7-7,0,-2-,,,SEA,Taylor Trammell,Jose Alvarez,0%,81%,Walk
+85,SEA202104010,b10,7-7,0,12-,,,SEA,Dylan Moore,Jose Alvarez,12%,94%,Walk; White to 3B; Trammell to 2B
+86,SEA202104010,b10,7-7,0,123,,R,SEA,Jake Fraley,Jose Alvarez,6%,100%,Walk; White Scores/unER; Trammell to 3B; Moore to 2B
