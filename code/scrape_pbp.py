@@ -6,6 +6,8 @@ Created on Mon Apr 25 00:28:43 2022
 @author: harry
 """
 
+
+# Module imports
 import pathlib
 from os import path
 import requests
@@ -65,6 +67,7 @@ def table_to_df(table, overheader = 0, header = 'th'):
     return df
 
 
+# Get the play-by-play DataFrame for a given href link
 def get_game_pbp(href, prefix = 'https://www.baseball-reference.com'):
     url = prefix + href
     soup = get_soup(url)
@@ -82,6 +85,7 @@ def get_url_from_date(year, month, day, prefix = 'https://www.baseball-reference
     return f'{prefix}/?year={year}&month={month}&day={day}'
 
 
+# Get the combined play-by-play DataFrame for a given date
 def get_pbp_combined_from_date(year, month, day):
     url = get_url_from_date(year, month, day)
     soup = get_soup(url)
@@ -95,6 +99,7 @@ def get_pbp_combined_from_date(year, month, day):
     return pd.concat(pbp_dfs)
     
 
+# Global variables for determining relevant dates to scrape
 season_dates = {
     '2021': {
         'start': {
@@ -110,7 +115,6 @@ season_dates = {
     },
 }                   
 
-# Global variables for determining relevant dates to scrape
 days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 year = season_dates['2021']['start']['year']
@@ -121,12 +125,13 @@ end_year = season_dates['2021']['end']['year']
 end_month = season_dates['2021']['end']['month']
 end_day = season_dates['2021']['end']['day']
 
+
+# Store a list of the DataFrames for each date
 all_dfs = []
 # Loop through all the relevant days and get the games for each
-for i in range(1):
-#while not (year == int(toyear) and month == int(tomonth) and day == int(today)):
+#for i in range(1):
+while not (year == int(end_year) and month == int(end_month) and day == int(end_day)):
     df = get_pbp_combined_from_date(year, month, day)
-    #print(rows)
     all_dfs.append(df)
     
     if day == days[month - 1]:
@@ -141,6 +146,8 @@ for i in range(1):
 
     sleep(1)
     
+
+# Combine the daily DataFrames and write it to a CSV
 combined_df = pd.concat(all_dfs)
 print(combined_df)
 combined_df.to_csv(path.join(DATA_DIR, '2021.csv'))
