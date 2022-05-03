@@ -129,8 +129,8 @@ end_day = season_dates['2021']['end']['day']
 # Store a list of the DataFrames for each date
 all_dfs = []
 # Loop through all the relevant days and get the games for each
-#for i in range(1):
-while not (year == int(end_year) and month == int(end_month) and day == int(end_day)):
+for i in range(50):
+#while not (year == int(end_year) and month == int(end_month) and day == int(end_day)):
     df = get_pbp_combined_from_date(year, month, day)
     all_dfs.append(df)
     

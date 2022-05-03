@@ -14,6 +14,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+import random
     
 
 # Markov chain class to model transitions
@@ -76,22 +77,25 @@ class BaseballChain(MarkovChain):
         if dst[1] == src[1]:
             runs = 1 + len(src[0].replace('-', '')) - len(dst[0].replace('-', ''))
             self.total_runs += runs
+            self.total_pa += 1
         return dst
 
     # Simulate a single inning, resetting total runs and keeping track of the states and runs scored
     def simulate_inning(self):
         self.total_runs = 0
+        self.total_pa = 0
         chain = super().simulate_chain(('---', 0), ('---', 3))
-        return chain, self.total_runs
+        return chain, self.total_runs, self.total_pa
     
     
     # Simulate a single inning, resetting total runs and keeping track of the states and runs scored
     def simulate_game(self):
         self.total_runs = 0
+        self.total_pa = 0
         inning_chains = []
         for i in range(9):
             inning_chains.append(super().simulate_chain(('---', 0), ('---', 3)))
-        return inning_chains, self.total_runs
+        return inning_chains, self.total_runs, self.total_pa
         
 
 
@@ -103,6 +107,8 @@ DATA_DIR = path.join(PROJECT_DIR, 'data')
 
 # Load team play-by-play data
 player_pbp_data = pd.read_csv(path.join(DATA_DIR, 'players_batting_2021.csv')).sort_values('PA', ascending = False)
+player_pbp_data = player_pbp_data.drop_duplicates(subset = ['Name'])
+player_pbp_data['Name'] = player_pbp_data['Name'].apply(lambda x: x.replace('*', '').replace('#', '').replace('+', ''))
 player_pbp_data = player_pbp_data.groupby('Tm').head(9)
 player_pbp_data['1B'] = player_pbp_data['H'] - player_pbp_data['2B'] - player_pbp_data['3B'] - player_pbp_data['HR']
 player_pbp_data[['Name', 'Tm', 'PA', 'BB', '1B', '2B', '3B', 'HR']]
@@ -110,6 +116,7 @@ player_pbp_data[['Name', 'Tm', 'PA', 'BB', '1B', '2B', '3B', 'HR']]
 
 # Loop through the teams and construct their transition matrices, adding them to the dictionary of team transition matrices
 player_transition_matrices = {}
+player_rows = {}
 
 for ind in player_pbp_data.index:
     # Calculate probabilities of relevant plays for each team
@@ -144,7 +151,8 @@ for ind in player_pbp_data.index:
     pd.DataFrame(player_transition_matrix)
     
     # Add the transition matrix to our dictionary
-    player_transition_matrices[player_pbp_data.loc[ind, 'Name'].translate('*#+')] = player_transition_matrix
+    player_transition_matrices[player_pbp_data.loc[ind, 'Name']] = player_transition_matrix
+    player_rows
 
 
 results = {}
@@ -154,23 +162,51 @@ for player in players:
     player_results = []
     for i in range(10):
         player_chain = BaseballChain(player_transition_matrices[player])
-        chain, runs = player_chain.simulate_game()
-        player_results.append((chain, runs))
+        chain, runs, pa = player_chain.simulate_game()
+        player_results.append((chain, runs, pa))
     results[player] = player_results
 
-run_avg = sum(result[1] for result in results['LAD']) / 100
+# run_avg = sum(result[1] for result in results['LAD']) / 100
 
 
-# Iterate through the teams and plot them
+# Iterate through the players, plot them, and trakc their runs created
+rows = []
 for player in players[:5]:
-    # Draw the density plotq
+    # Draw the density plot
     sns.kdeplot([result[1] for result in results[player]], label = player)
-
-sns.kdeplot([result[1] for result in results[player]], label = player)
     
+    # Calculate the runs created according to the Markov chain and Bill James's metric
+    row = player_pbp_data.loc[player_pbp_data['Name'] == player]
+    markov_rc = np.mean([result[1] / (sum([len(inning) for inning in result[0]]) - 9) for result in results[player]]) * int(row['PA'])
+    runs_created = float(((row['H'] + row['BB']) * row['TB']) / (row['PA']))
+    row = {'Name': player, 'Markov RC': markov_rc, 'Runs Created': runs_created}
+    rows.append(row)
     
 # Plot formatting
 plt.legend(title = 'Team')
 plt.title('Run Density Plot for Players')
 plt.xlabel('Runs Scored')
 plt.ylabel('Density')
+
+# Create the runs created DataFrame for the sampled players
+rc_df = pd.DataFrame(rows).set_index('Name')
+rc_df['Percent Diff'] = (rc_df['Markov RC'] - rc_df['Runs Created']) / rc_df['Runs Created'] * 100
+print(rc_df)
+
+
+# Create a runs created DataFrame for all players
+all_rows = []
+for player in players:
+    # Calculate the runs created according to the Markov chain and Bill James's metric
+    row = player_pbp_data.loc[player_pbp_data['Name'] == player]
+    markov_rc = np.mean([result[1] / (sum([len(inning) for inning in result[0]]) - 9) for result in results[player]]) * int(row['PA'])
+    runs_created = float(((row['H'] + row['BB']) * row['TB']) / (row['PA']))
+    row = {'Name': player, 'Markov RC': markov_rc, 'Runs Created': runs_created}
+    all_rows.append(row)
+    
+big_rc_df = pd.DataFrame(all_rows).set_index('Name')
+big_rc_df['Percent Diff'] = (big_rc_df['Markov RC'] - big_rc_df['Runs Created']) / big_rc_df['Runs Created'] * 100
+print(big_rc_df)
+
+# Print out summary statistics for the percent difference
+big_rc_df['Percent Diff'].describe()

@@ -152,17 +152,18 @@ teams = list(team_dict.values())
 
 for team in teams:
     team_results = []
-    for i in range(100):
+    for i in range(1000):
         team_chain = BaseballChain(team_transition_matrices[team])
         chain, runs = team_chain.simulate_game()
         team_results.append((chain, runs))
     results[team] = team_results
 
-run_avg = sum(result[1] for result in results['LAD']) / 100
+run_avg = sum(result[1] for result in results['LAD']) / 1000
 
 
-# Iterate through the teams and plot them
-for team in teams[:5]:
+# Iterate through the chosen teams and plot them
+teams = ['LAD', 'SFG', 'AVG', 'BOS', 'MIA']
+for team in teams:
     # Draw the density plot
     sns.kdeplot([result[1] for result in results[team]], label = team)
     
@@ -175,4 +176,7 @@ plt.ylabel('Density')
 
 
 # Plot a heatmap of the probability transition matrices
-sns.heatmap(team_transition_matrices['SFG'], cmap = 'icefire')
+for team in teams:
+    plt.figure()
+    plt.title(f'Density Plot for {team}')
+    sns.heatmap(team_transition_matrices[team], cmap = 'icefire')

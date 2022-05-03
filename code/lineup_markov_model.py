@@ -97,11 +97,13 @@ class BaseballChain(MarkovChain):
         if dst[OUT] == src[OUT]:
             runs = 1 + len(src[STATE].replace('-', '')) - len(dst[STATE].replace('-', ''))
             self.total_runs += runs
+            self.total_ab += 1
         return dst
 
     # Simulate a single inning, resetting total runs and keeping track of the states and runs scored
     def simulate_inning(self):
         self.total_runs = 0
+        self.total_ab = 0
         chain = super().simulate_chain(('---', 0), ('---', 3))
         return chain, self.total_runs
     
@@ -109,6 +111,7 @@ class BaseballChain(MarkovChain):
     # Simulate a single inning, resetting total runs and keeping track of the states and runs scored
     def simulate_game(self):
         self.total_runs = 0
+        self.total_ab = 0
         inning_chains = []
         for i in range(9):
             inning_chains.append(super().simulate_chain(('---', 0), ('---', 3)))
@@ -162,21 +165,21 @@ def simulate_batting_orders(team_name, team_df):
         team_transition_matrices.append(player_series_to_transition_matrix(row))
 
 
-    # Create a Markov chain for the team with descending batting average order
-    descending_results = []
-    for i in range(1000):
-        player_chain = BaseballChain(team_transition_matrices)
-        chain, runs = player_chain.simulate_game()
-        descending_results.append((chain, runs))
-
-
     # Create a Markov chain for the team with ascending batting average order
-    team_transition_matrices.reverse()
     ascending_results = []
     for i in range(1000):
         player_chain = BaseballChain(team_transition_matrices)
         chain, runs = player_chain.simulate_game()
         ascending_results.append((chain, runs))
+
+
+    # Create a Markov chain for the team with descending batting average order
+    team_transition_matrices.reverse()
+    descending_results = []
+    for i in range(1000):
+        player_chain = BaseballChain(team_transition_matrices)
+        chain, runs = player_chain.simulate_game()
+        descending_results.append((chain, runs))
         
     
     # Create a Markov chain for the team with ascending batting average order
@@ -192,8 +195,8 @@ def simulate_batting_orders(team_name, team_df):
     plt.figure()
         
     # Plot the descending batting average run distribution
-    sns.kdeplot([result[1] for result in descending_results], label = 'Descending')
     sns.kdeplot([result[1] for result in ascending_results], label = 'Ascending')
+    sns.kdeplot([result[1] for result in descending_results], label = 'Descending')
     sns.kdeplot([result[1] for result in random_results], label = 'Random')
 
     # Plot formatting
@@ -201,6 +204,14 @@ def simulate_batting_orders(team_name, team_df):
     plt.title(f'Run Density Plot for {team[FULL_NAME]}')
     plt.xlabel('Runs Scored')
     plt.ylabel('Density')
+    
+
+    ascending_dist = pd.DataFrame([result[1] for result in ascending_results])
+    descending_dist = pd.DataFrame([result[1] for result in descending_results])    
+    random_dist = pd.DataFrame([result[1] for result in random_results])
+    df =  pd.concat([ascending_dist.describe().transpose(), descending_dist.describe().transpose(), random_dist.describe().transpose()])
+    df.index = ['Ascending', 'Descending', 'Random']
+    return df.sort_values('mean', ascending = False)
 
 
 
@@ -225,7 +236,18 @@ team_dict = {'San Francisco Giants': 'SFG', 'Los Angeles Dodgers': 'LAD', 'Chica
 
 player_data['Tm'].unique()
 
+dists = []
 for team in list(team_dict.items()):
     print(team)
     team_player_data = player_data[player_data['Tm'] == team[TLA]].sort_values('BA')
-    simulate_batting_orders(team, team_player_data)
+    dist = simulate_batting_orders(team, team_player_data)
+    dist = dist.loc[dist['mean'] == max(dist['mean'])]
+    print(dist)
+    dist['type'] = dist.index[0]
+    dist.index = [team[TLA]]
+    dists.append(dist.squeeze())
+    
+dist_df = pd.DataFrame(dists)
+dist_df = dist_df.sort_values('mean', ascending = False)
+str(dist_df.style.to_latex()).replace('\\\\\n', '\\ \hline ')
+str(dist_df.groupby('type').size().to_frame().transpose().style.to_latex()).replace('\\\\\n', '\\\hline ')
