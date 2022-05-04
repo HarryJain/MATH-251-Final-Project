@@ -244,7 +244,7 @@ for team in list(team_dict.items()):
     team_player_data = player_data[player_data['Tm'] == team[TLA]].sort_values('BA')
     dist = simulate_batting_orders(team, team_player_data)
     print(dist)
-    dist = dist.loc[dist['mean'] == max(dist['mean'])]
+    dist = dist.loc[dist['mean'] == max(dist['mean'])].head(1)
     dist['type'] = dist.index[0]
     dist.index = [team[TLA]]
     dists.append(dist.squeeze())
@@ -253,4 +253,5 @@ for team in list(team_dict.items()):
 dist_df = pd.DataFrame(dists)
 dist_df = dist_df.sort_values('mean', ascending = False)
 str(dist_df.style.to_latex()).replace('\\\\\n', '\\ \hline ')
-str(dist_df.groupby('type').size().to_frame().transpose().style.to_latex()).replace('\\\\\n', '\\\hline ')
+dist_types_df = dist_df.groupby('type').size().to_frame()
+str(dist_types_df.transpose().style.to_latex()).replace('\\\\\n', '\\\hline ')
