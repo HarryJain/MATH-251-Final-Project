@@ -214,6 +214,7 @@ def get_player_distributions(player):
     print(player_df)
     
     
+    # Calculate the transition matrices for each year for the given player
     player_transition_matrices = {}
     for year in player[YEARS]:
         matrix = player_series_to_transition_matrix(player_df.loc[player_df['Year'] == year].squeeze())
@@ -221,6 +222,7 @@ def get_player_distributions(player):
     
     results = {}
     
+    # Simulate a run distribution for each year for a given playeer
     for year in player[YEARS]:
         year_results = []
         for i in range(1000):
@@ -234,7 +236,7 @@ def get_player_distributions(player):
         
     # Plot the run distributions for each year
     for year in player[YEARS]:
-        sns.kdeplot([result[1] for result in results[year]], label = year)
+        sns.kdeplot([result[1] for result in results[year]], label = year, clip = (0, None))
     
     # Plot formatting
     plt.legend(title = 'Team')
@@ -245,6 +247,7 @@ def get_player_distributions(player):
     return results
     
 
+# Plot the results for each player
 for player in steroid_players:
     results = get_player_distributions(player)
     year = list(results.keys())[0]

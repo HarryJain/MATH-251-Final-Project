@@ -236,17 +236,20 @@ team_dict = {'San Francisco Giants': 'SFG', 'Los Angeles Dodgers': 'LAD', 'Chica
 
 player_data['Tm'].unique()
 
+
+# Simulate the distribution of runs for each order for each team
 dists = []
 for team in list(team_dict.items()):
     print(team)
     team_player_data = player_data[player_data['Tm'] == team[TLA]].sort_values('BA')
     dist = simulate_batting_orders(team, team_player_data)
-    dist = dist.loc[dist['mean'] == max(dist['mean'])]
     print(dist)
+    dist = dist.loc[dist['mean'] == max(dist['mean'])]
     dist['type'] = dist.index[0]
     dist.index = [team[TLA]]
     dists.append(dist.squeeze())
     
+# Create a table with the best batting order foe each team
 dist_df = pd.DataFrame(dists)
 dist_df = dist_df.sort_values('mean', ascending = False)
 str(dist_df.style.to_latex()).replace('\\\\\n', '\\ \hline ')

@@ -150,6 +150,7 @@ for ind in team_pbp_data.index:
 results = {}
 teams = list(team_dict.values())
 
+# Simulate game for each team
 for team in teams:
     team_results = []
     for i in range(1000):

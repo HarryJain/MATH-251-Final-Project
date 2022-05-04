@@ -169,11 +169,19 @@ for player in players:
 # run_avg = sum(result[1] for result in results['LAD']) / 100
 
 
+# Print subset of transition matrix heatmaps
+for player in players[:5]:
+    plt.figure()
+    sns.heatmap(player_transition_matrices[player], cmap = 'icefire')
+    plt.title(f'Transition Matrix for {player}')
+
+
+plt.figure()
 # Iterate through the players, plot them, and trakc their runs created
 rows = []
 for player in players[:5]:
     # Draw the density plot
-    sns.kdeplot([result[1] for result in results[player]], label = player)
+    sns.kdeplot([result[1] for result in results[player]], label = player, clip = (0, None))
     
     # Calculate the runs created according to the Markov chain and Bill James's metric
     row = player_pbp_data.loc[player_pbp_data['Name'] == player]
@@ -192,6 +200,7 @@ plt.ylabel('Density')
 rc_df = pd.DataFrame(rows).set_index('Name')
 rc_df['Percent Diff'] = (rc_df['Markov RC'] - rc_df['Runs Created']) / rc_df['Runs Created'] * 100
 print(rc_df)
+rc_df.style.to_latex()
 
 
 # Create a runs created DataFrame for all players
@@ -209,4 +218,5 @@ big_rc_df['Percent Diff'] = (big_rc_df['Markov RC'] - big_rc_df['Runs Created'])
 print(big_rc_df)
 
 # Print out summary statistics for the percent difference
-big_rc_df['Percent Diff'].describe()
+percent_df = big_rc_df['Percent Diff']
+pd.DataFrame(percent_df).describe().transpose().iloc[:, 1:].style.to_latex()
